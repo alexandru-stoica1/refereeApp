@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="laws_of_the_game">Legile Jocului</string>
+    <string name="roaf">ROAF</string>
+    <string name="tests">Testari Teoretice</string>
+    <string name="video_review">Faze Video</string>
+    <string name="stadium_addresses">Adresele Bazelor Sportive</string>
+</resources>
