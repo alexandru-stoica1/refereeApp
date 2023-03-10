@@ -15,7 +15,8 @@
 
         <Button
             style="@style/buttons"
-            android:text="@string/laws_of_the_game"/>
+            android:text="@string/laws_of_the_game"
+            android:id="@+id/lawsOfTheGameBtnHomePage"/>
 
     </RelativeLayout>
 
@@ -26,7 +27,8 @@
 
         <Button
             style="@style/buttons"
-            android:text="@string/roaf"/>
+            android:text="@string/roaf"
+            android:id="@+id/roafBtnHomePage"/>
 
     </RelativeLayout>
 
@@ -37,7 +39,8 @@
 
         <Button
             style="@style/buttons"
-            android:text="@string/tests"/>
+            android:text="@string/tests"
+            android:id="@+id/theoreticalTestsBtnHomePage"/>
 
     </RelativeLayout>
 
@@ -48,7 +51,8 @@
 
         <Button
             style="@style/buttons"
-            android:text="@string/video_review"/>
+            android:text="@string/video_review"
+            android:id="@+id/videoBtnHomePage"/>
 
     </RelativeLayout>
 
@@ -59,7 +63,8 @@
 
         <Button
             style="@style/buttons"
-            android:text="@string/stadium_addresses"/>
+            android:text="@string/stadium_addresses"
+            android:id="@+id/stadiumAddressesBtnHomePage"/>
 
     </RelativeLayout>
 </LinearLayout>
