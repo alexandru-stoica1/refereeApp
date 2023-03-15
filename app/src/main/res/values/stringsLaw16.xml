@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_16_1">Lovitura de poartă se acordă când mingea depăşeşte în întregime linia de poartă,
+        pe sol sau în aer, fără să se marcheze gol, iar ultimul jucător care o atinge este un
+        jucător al echipei în atac. \n\n
+
+        Dintr-o lovitură de poartă, se poate înscrie direct gol, dar numai împotriva
+        echipei adverse; dacă mingea intră direct în poarta echipei executantului, se
+        acordă lovitură de colţ în favoarea echipei adverse.
+    </string>
+
+    <string name="law_16_2">\t• Mingea trebuie să fie statică, fiind lovită cu piciorul din orice punct al suprafeţei
+        de poartă de un jucător al echipei în apărare. \n
+        \t• Mingea este în joc în momentul în care este lovită şi se mişcă în mod clar. \n
+        \t• Jucătorii echipei adverse trebuie să rămână în afara suprafeţei de pedeapsă
+        până când mingea este în joc..
+    </string>
+
+    <string name="law_16_3">Dacă, după ce mingea este în joc, executantul atinge mingea din nou înainte ca
+        aceasta să fie atinsă de un alt jucător, se acordă lovitură liberă indirectă; dacă
+        executantul comite o abatere prin jucarea mingii cu mâna: \n
+        \t• se acordă o lovitură liberă directă \n
+        \t• se acordă o lovitură de pedeapsă dacă abaterea s-a produs în interiorul
+        suprafeţei de pedeapsă a echipei executantului în afară de cazul în care
+        executantul este portarul, situaţie în care se acordă o lovitură liberă indirectă. \n\n
+
+        Dacă, în momentul executării unei lovituri de poartă, în suprafaţa de pedeaspă
+        se află jucători ai echipei adverse, pentru că nu au avut timp să o părăsească,
+        arbitrul lasă jocul să continue. Dacă un jucător al echipei adverse care se află în
+        suprafaţa de pedeapsă în momentul executării loviturii de poartă sau care intră în
+        suprafaţa de pedeapsă înainte ca mingea să fie în joc, atinge mingea sau participă
+        la disputa pentru minge înainte ca mingea să fie în joc, se repetă lovitura de
+        poartă. \n\n
+
+        Dacă un jucător intră în suprafaţa de pedeapsă înainte ca mingea să fie în joc şi
+        faultează sau este faultat de un adversar, se repetă lovitura de poartă, iar jucătorul
+        vinovat poate fi avertizat sau eliminat, în funcţie de abatere.
+        Pentru orice altă abatere de la această Lege, se repetă lovitura de poartă.
+    </string>
+</resources>

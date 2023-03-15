@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_11_1">A fi în poziţie de ofsaid nu reprezintă o abatere. \n\n
+
+        Un jucător se află în poziţie de ofsaid dacă: \n
+        \t• orice parte a capului, corpului sau picioarelor acestuia se află în jumătatea
+        adversă de teren (excluzând linia mediană) şi \n
+        \t• orice parte a capului, corpului sau picioarelor acestuia se află mai aproape de
+        linia porţii adverse decât mingea şi penultimul adversar. \n\n
+
+        Mâinile și brațele tuturor jucătorilor, inclusiv ale portarilor, nu sunt luate în
+        considerare. Cu scopul de a determina ofsaidul, limita superioară a brațului este
+        aliniată cu partea inferioară a axilei. \n\n
+
+        Un jucător nu este în poziţie de ofsaid dacă se află pe aceeaşi linie cu: \n
+        \t• penultimul adversar sau \n
+        \t• ultimii doi adversari.
+    </string>
+
+    <string name="law_11_2">Un jucător care se află în poziţie de ofsaid în momentul în care mingea este jucată
+        sau atinsă* de un coechipier este sancţionat numai când ia parte în mod activ la
+        joc: \n
+        \t• intervenind în joc prin jucarea sau atingerea mingii pasate sau atinse de un
+        coechipier sau \n
+        \t• intervenind asupra unui adversar: \n
+        \t\t• împiedică un adversar să joace mingea sau să poată juca mingea prin
+        obstrucţionarea clară a câmpului vizual al acestuia sau \n
+        \t\t• îşi dispută mingea cu un adversar sau \n
+        \t\t• încearcă în mod clar să joace mingea care se află în apropiere, iar această
+        acţiune influenţează un adversar sau \n
+        \t\t• efectuează o acţiune evidentă care influenţează în mod clar capacitatea unui
+        adversar de a juca mingea \n\n
+
+        * Se va lua în considerare primul punct de contact cu mingea jucată sau atinsă. \n\n
+
+        sau \n\n
+
+        \t• obţinând un avantaj prin jucarea mingii sau intervenţia asupra unui adversar
+        când mingea: \n
+        \t\t• a ricoşat sau a deviat din stâlpul porţii, bara transversală, un oficial de meci
+        sau un adversar \n
+        \t\t• a fost respinsă în mod deliberat de un adversar pentru evitarea marcării unui
+        gol. \n\n
+
+        Dacă un jucător în poziţie de ofsaid primeşte mingea de la un adversar care joacă
+        în mod deliberat mingea, inclusiv cu mâna, nu se consideră că a obţinut un avantaj
+        din această poziţie decât dacă un adversar a respins în mod deliberat mingea,
+        împiedicând înscrierea unui gol. \n\n
+
+        „Respingerea” reprezintă situaţia în care un jucător opreşte sau încearcă să
+        oprească o minge care se duce în poartă sau foarte aproape de poartă cu orice
+        parte a corpului, cu excepţia mâinilor/braţelor (în afară de portar aflat în
+        suprafaţa de pedeapsă). \n\n
+
+        În situaţiile în care: \n
+        \t• un jucător care revine din poziţie de ofsaid sau se află în poziţie de ofsaid
+        stă în calea unui adversar şi intervine asupra înaintării adversarului către
+        minge comite o abatere încadrabilă ca ofsaid dacă în acest mod influenţează
+        capacitatea adversarului de a juca mingea sau de a participa la disputa
+        pentru minge; dacă jucătorul se deplasează în calea adversarului şi împiedică
+        înaintarea acestuia (de exemplu, blochează adversarul), abaterea trebuie
+        sancţionată conform Legii 12 \n
+        \t• un jucător aflat în poziţie de ofsaid se îndreaptă către minge cu intenţia de a
+        juca mingea şi este faultat înainte de a juca sau de a încerca să joace mingea
+        sau de a-şi disputa mingea cu un adversar, se sancţionează faultul, deoarece s-a
+        produs înainte de a se comite ofsaid \n
+        \t• se comite o abatere împotriva unui jucător aflat în poziţie de ofsaid care joacă
+        deja mingea sau încearcă să joace mingea sau îşi dispută mingea cu un adversar,
+        este sancţionat ofsaidul, deoarece s-a produs înainte de a se comite faultul.
+    </string>
+
+    <string name="law_11_3">Poziţia de ofsaid nu este considerată abatere dacă jucătorul primeşte mingea
+        direct: \n
+        \t• dintr-o lovitură de poartă \n
+        \t• dintr-o aruncare de la margine \n
+        \t• dintr-o lovitură de colţ.
+    </string>
+
+    <string name="law_11_4">Dacă are loc o abatere încadrabilă ca ofsaid, arbitrul acordă o lovitură liberă
+        indirectă din locul unde s-a produs abaterea, inclusiv dacă aceasta a avut loc în
+        propria jumătate de teren a jucătorului respectiv. \n\n
+
+        Un jucător al echipei în apărare care iese de pe terenul de joc fără permisiunea
+        arbitrului va fi considerat, atunci când se analizează o situaţie de ofsaid, ca
+        aflându-se pe linia de poartă sau pe linia de margine până la următoarea oprire
+        a jocului sau până când echipa în apărare trimite mingea către linia mediană
+        şi aceasta se află în afara suprafeţei sale de pedeapsă. Dacă jucătorul a părăsit
+        terenul de joc în mod deliberat, acesta trebuie avertizat la prima ieşire a mingii
+        din joc. \n\n
+
+        Un jucător al echipei în atac poate păşi sau rămâne în afara terenul de joc pentru
+        a nu participa activ la joc. Dacă jucătorul reintră pe la linia de poartă şi participă
+        activ la joc înainte de prima oprire a jocului sau înainte ca echipa în apărare să
+        trimită mingea către linia mediană şi aceasta să se afle în afara suprafeţei sale
+        de pedeapsă, atunci când se analizează o situaţie de ofsaid, se va considera că
+        jucătorul este poziţionat pe linia de poartă. Un jucător care iese în mod deliberat
+        de pe terenul de joc şi apoi reintră pe teren fără permisiunea arbitrului şi nu este
+        sancţionat pentru ofsaid şi obţine un avantaj trebuie sancţionat. \n\n
+
+        Dacă un jucător în atac rămâne nemişcat între stâlpii porţii şi în interiorul
+        acesteia în momentul în care mingea intră în poartă, golul trebuie acordat cu
+        excepţia cazului în care jucătorul comite o abatere încadrabilă ca ofsaid sau o
+        abatere care intră sub incidenţa Legii 12, situaţie în care jocul este reluat cu
+        lovitură liberă indirectă sau lovitură liberă directă.
+    </string>
+</resources>

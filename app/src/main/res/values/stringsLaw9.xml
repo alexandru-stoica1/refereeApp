@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_9_1">Mingea este afară din joc când: \n
+        \t• a depăşit în întregime linia de poartă sau linia de margine, pe sol sau în aer \n
+        \t• jocul a fost oprit de arbitru \n
+        \t• atinge un oficial de meci, rămâne în terenul de joc şi: \n
+        \t\t• o echipă lansează un atac promiţător sau \n
+        \t\t• mingea intră direct în poartă sau \n
+        \t\t• se schimbă echipa aflată în posesia mingii \n\n
+
+        În toate aceste situaţii, jocul este reluat cu o minge de arbitru.
+    </string>
+
+    <string name="law_9_2">Mingea este în joc în orice alte cazuri când atinge un oficial de meci şi când
+        ricoşează după ce a atins un stâlp al porţii, bara transversală sau un steag de la
+        colţul terenului şi rămâne pe terenul de joc.
+    </string>
+</resources>

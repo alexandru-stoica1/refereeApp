@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_14_1">Lovitura de pedeapsă (penalty) se acordă dacă un jucător comite o abatere
+        pasibilă de sancţionare cu lovitură liberă directă în propria suprafaţă de
+        pedeapsă sau în afara terenului de joc, în cadrul jocului, conform prevederilor
+        Legilor 12 şi 13. \n\n
+
+        Dintr-o lovitură de pedeapsă se poate înscrie direct gol.
+    </string>
+
+    <string name="law_14_2">Mingea trebuie să fie statică pe punctul de pedeapsă, iar stâlpii porţii, bara
+        transversală şi plasa porţii nu trebuie să se mişte. \n\n
+
+        Jucătorul care execută lovitura de pedeapsă trebuie să fie clar identificat. \n\n
+
+        Portarul echipei în apărare trebuie să rămână pe linia porţii, cu faţa la executant,
+        între stâlpii porţii, fără a atinge stâlpii porţii, bara transversală sau plasa porţii,
+        până la lovirea mingii. \n\n
+
+        Ceilalţi jucători, cu excepţia executantului şi a portarului trebuie să se afle: \n
+        \t• la o distanţă de minimum 9,15 m (10 yds) faţă de punctul de pedeapsă \n
+        \t• în spatele punctului de pedeapsă \n
+        \t• în interiorul terenului de joc \n
+        \t• în afara suprafeţei de pedeapsă. \n\n
+
+        După ce toţi jucătorii s-au poziţionat pe teren în conformitate cu această Lege,
+        arbitrul dă semnalul de executare a loviturii de pedeapsă. \n\n
+
+        Jucătorul care execută lovitura de pedeapsă trebuie să trimită mingea spre
+        înainte; se permite lovirea mingii cu călcâiul atât timp cât mingea se mişcă spre
+        înainte. \n\n
+
+        Când mingea este lovită, cel puţin un picior al portarului echipei în apărare
+        trebuie să atingă linia de poartă sau piciorul trebuie să se afle la acelaşi nivel cu
+        linia de poartă sau în spatele acesteia.
+        Mingea este în joc în momentul în care este lovită şi se mişcă în mod clar. \n\n
+
+        Executantul nu are voie să atingă mingea din nou înainte ca aceasta să fie atinsă de
+        un alt jucător. \n\n
+
+        Lovitura de pedeapsă este considerată finalizată în momentul în care mingea nu se
+        mai mişcă, iese din joc sau arbitrul opreşte jocul în urma unei abateri. \n\n
+
+        Pentru executarea şi finalizarea unei lovituri de pedeapsă, este permisă
+        prelungirea timpului de joc la sfârşitul fiecărei reprize sau reprize de prelungiri.
+        La prelungirea timpului de joc, lovitura de pedeapsă este considerată finalizată în
+        momentul în care, după executarea loviturii, mingea nu se mai mişcă, iese din joc,
+        este jucată de un alt jucător (inclusiv executantul), cu excepţia portarului echipei
+        în apărare sau arbitrul opreşte jocul în urma unei abateri comise de executant sau
+        de echipa executantului. În cazul în care un jucător al echipei în apărare (inclusiv
+        portarul) comite o abatere, iar lovitura de pedeapsă este ratată/apărată, aceasta va
+        fi repetată.
+    </string>
+
+    <string name="law_14_3">După ce arbitrul a dat semnalul de executare a unei lovituri de pedeapsă, aceasta
+        trebuie executată; dacă nu este executată, arbitrul poate aplica o sancţiune
+        disciplinară înainte de a da din nou semnalul de executare a loviturii. \n\n
+
+        Dacă, înainte ca mingea să fie în joc, se produce una din următoarele situaţii: \n
+        \t• jucătorul care execută lovitura de pedeapsă sau un coechipier al acestuia comite
+        o abatere: \n
+        \t\t• dacă mingea intră în poartă, se repetă lovitura \n
+        \t\t• dacă mingea nu intră în poartă, arbitrul opreşte jocul, dispunând reluarea
+        acestuia cu o lovitură liberă indirectă,
+        cu excepţia situaţiilor de mai jos, când jocul este oprit, fiind apoi reluat cu o
+        lovitură liberă indirectă, indiferent dacă a fost înscris sau nu un gol: \n
+        \t\t• lovitura de pedeapsă este executată spre înapoi \n
+        \t\t• lovitura este executată de un coechipier al executantului identificat; arbitrul
+        avertizează jucătorul care a executat lovitura \n
+        \t• executantul face o fentă, simulând că loveşte mingea, după încheierea alergării
+        (executarea unei fente în timpul alergării este permisă); arbitrul avertizează
+        executantul \n
+        \t• portarul comite o abatere: \n
+        \t\t• dacă mingea intră în poartă, se acordă gol \n
+        \t\t• dacă mingea nu intră în poartă sau loveşte bara transversală sau stâlpii
+        porţii, lovitura se repetă numai dacă abaterea portarului a avut clar un
+        impact asupra executantului loviturii \n
+        \t\t• dacă mingea este împiedicată de către portar să intre în poartă, lovitura se
+        repetă \n
+        \t\tÎn cazul în care abaterea comisă de portar duce la repetarea loviturii,
+        portarul este atenţionat la prima abatere din joc şi primeşte avertisment la
+        orice abatere / abateri ulterioare din joc \n
+        \t• un coechipier al portarului comite o abatere: \n
+        \t\t• dacă mingea intră în poartă, se acordă gol \n
+        \t\t• dacă mingea nu intră în poartă, se repetă lovitura \n
+        \t• jucători din ambele echipe comit o abatere în raport cu Legile jocului, se repetă
+        lovitura, în afară de cazul în care un jucător comite o abatere mai gravă (de
+        exemplu, fentă neregulamentară); \n
+        \t• dacă portarul şi executantul comit o abatere în acelaşi timp, executantul este
+        avertizat, iar jocul este reluat cu o lovitură liberă indirectă în favoarea echipei
+        în apărare. \n\n
+
+        Dacă, după executarea loviturii de pedeapsă: \n
+        \t• executantul atinge mingea din nou, înainte ca aceasta să fie atinsă de un alt
+        jucător: \n
+        \t\t• se acordă o lovitură liberă indirectă (sau o lovitură liberă directă pentru
+        comiterea unei abateri prin jucarea mingii cu mâna) \n
+        \t• mingea este atinsă de o persoană străină/factor extern în timp ce se mişcă
+        spre înainte: \n
+        \t\t• se repetă lovitura, în afară de cazul în care mingea se îndreaptă spre poartă,
+        intervenţia neîmpiedicând portarul sau un jucător al echipei în apărare
+        să joace mingea, situaţie în care se acordă gol dacă mingea intră în poartă
+        (chiar şi în cazul contactului cu mingea), cu excepţia situaţiei în care
+        intervenţia a fost produsă de echipa în atac. \n
+        \t• mingea revine în terenul de joc, ricoşând din portar, bara transversală sau stâlpii
+        porţii şi apoi este atinsă de o persoană străină/factor extern: \n
+        \t\t• arbitrul opreşte jocul \n
+        \t\t• jocul se reia cu o minge de arbitru din locul unde se afla când a fost atinsă de
+        persoana străină/factor extern.
+    </string>
+</resources>

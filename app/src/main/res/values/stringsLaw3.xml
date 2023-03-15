@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_3_1">Un meci se dispută între două echipe, fiecare având un număr maxim de 11
+        jucători dintre care unul să fie portar. Jocul nu poate începe sau continua dacă
+        una dintre echipe are mai puţin de 7 jucători. \n\n
+
+        În cazul în care o echipă are mai puţin de 7 jucători din cauză că unul sau
+        mai mulţi jucători au părăsit în mod deliberat terenul de joc, arbitrul nu este
+        obligat să oprească jocul, putând acorda avantaj, dar jocul nu trebuie reluat
+        după ieşirea mingii din joc în cazul în care o echipă nu are un număr de
+        minimum 7 jucători. \n\n
+
+        În cazul în care regulamentul competiţiei prevede că toţi jucătorii titulari şi
+        cei înlocuitori trebuie desemnaţi înainte de lovitura de începere a partidei,
+        iar o echipă începe jocul cu mai puţin de 11 jucători, numai jucătorii titulari şi
+        înlocuitori desemnaţi ca atare pe foaia de joc pot lua parte la meci în momentul
+        sosirii lor.
+    </string>
+
+    <string name="law_3_2"><b>Competiţii oficiale</b>\n
+        Numărul de înlocuiri, maximum cinci, care pot fi efectuate în meciurile din cadrul
+        unei competiţii oficiale va fi stabilit de FIFA, confederaţie sau asociaţia naţională. \n\n
+
+        În competiţiile masculine şi feminine la care participă prima echipă a cluburilor
+        din divizia superioară sau echipele naţionale „A” de seniori, unde numărul maxim
+        de înlocuiri este trei regulamentul competiţiei permit utilizarea a maximum cinci
+        jucători înlocuitori, fiecare echipă: \n
+        \t• are la dispoziţie maximum trei ocazii în care poate efectua înlocuirile* \n
+        \t• poate efectua înlocuiri suplimentare la pauză\n
+        * Dacă ambele echipe efectuează simultan o înlocuire, aceasta va conta ca o ocazie
+        de efectuare a înlocuirilor pentru ambele. Înlocuirile (şi solicitările) multiple
+        ale unei echipe efectuate în timpul aceleiaşi opriri a jocului se consideră drept o
+        singură ocazie de înlocuire utilizată. \n\n
+
+        <b>Prelungirile</b>\n
+        \t• Dacă o echipă nu a utilizat numărul maxim de jucători înlocuitori şi/sau ocazii
+        de efectuare a înlocuirilor, orice jucători înlocuitori şi/sau ocazii de înlocuire
+        rămase se pot utiliza în timpul prelungirilor. \n
+        \t• Dacă regulamentul competiţiei le permite echipelor să folosească un jucător
+        înlocuitor suplimentar în prelungiri, fiecare echipă va beneficia de o ocazie
+        suplimentară de efectuare a înlocuirilor \n
+
+        <b>Alte meciuri</b>\n
+        La meciurile dintre echipele naţionale „A”, pot fi înscrişi pe foaia de joc maximum
+        12 jucători înlocuitori, din care pot fi utilizaţi maximum 6. \n\n
+
+        În toate celelalte meciuri, se poate efectua un număr mai mare de înlocuiri dacă: \n
+        \t• Echipele stabilesc de comun acord numărul maxim de înlocuiri. \n
+        \t• Arbitrul este informat înainte de meci. \n\n
+
+        În cazul în care arbitrul nu este informat sau echipele nu cad de acord înainte de
+        meci, fiecărei echipe îi este permisă efectuarea de maximum şase înlocuiri.
+        Reintroducerea pe teren a jucătorilor înlocuiţi
+        Reintroducerea pe teren a jucătorilor înlocuiţi este permisă numai la competiţiile
+        de tineret, veterani, pentru persoanele cu dizabilităţi şi fotbalul de bază, sub
+        rezerva acordului asociaţiei naţionale, confederaţiei sau FIFA.
+    </string>
+
+    <string name="law_3_3">Numele jucătorilor înlocuitori trebuie comunicate arbitrului înainte de începerea
+        meciului. Un jucător înlocuitor al cărui nume nu a fost comunicat înainte de
+        începerea meciului nu poate lua parte la meci. \n\n
+
+        La înlocuirea unui jucător cu un jucător înlocuitor, trebuie respectate următoarele
+        condiţii: \n
+        \t• Arbitrul trebuie să fie informat înainte de efectuarea înlocuirii. \n
+        \t• Jucătorul înlocuit: \n
+        \t\t• primeşte permisiunea arbitrului de a părăsi terenul de joc, cu excepţia cazului
+        în care se află deja în afara acestuia, şi trebuie să părăsească terenul prin
+        punctul cel mai apropiat de pe linia terenului, în afară de cazul în care arbitrul
+        indică faptul că jucătorul poate părăsi terenul imediat, direct pe la linia
+        mediană sau prin alt punct (de exemplu, din motive de siguranţă/securitate
+        sau ca urmare a unei accidentări) \n
+        \t\t• trebuie să se deplaseze imediat în suprafaţa tehnică sau la vestiar şi nu va mai
+        participa la joc, cu excepţia situaţiei în care este permisă reintroducerea pe
+        teren a jucătorilor înlocuiţi. \n
+        \t• Dacă un jucător care urmează să fie înlocuit refuză să părăsească terenul, jocul
+        va continua. \n\n
+
+        Jucătorul înlocuitor poate intra pe teren doar: \n
+        \t• în timpul unei opriri a jocului \n
+        \t• pe la linia mediană \n
+        \t• după ce jucătorul înlocuit a părăsit terenul \n
+        \t• după primirea semnalului de la arbitru. \n\n
+
+        Procedura de înlocuire se încheie în momentul în care jucătorul înlocuitor intră
+        pe teren; din acel moment, jucătorul care a fost schimbat devine jucător înlocuit,
+        iar jucătorul înlocuitor devine jucător şi poate repune mingea în joc în orice mod. \n\n
+
+        Toţi jucătorii înlocuiţi şi jucătorii înlocuitori se supun autorităţii arbitrului,
+        indiferent dacă joacă sau nu.
+    </string>
+
+    <string name="law_3_4">Oricare din ceilalţi jucători poate înlocui portarul dacă: \n
+        \t• Arbitrul este informat înainte de efectuarea înlocuirii. \n
+        \t• Înlocuirea are loc în timpul unei opriri a jocului.
+    </string>
+
+    <string name="law_3_5">În cazul în care un jucător care a fost desemnat ca înlocuitor intră pe teren la
+    începutul meciului în locul unui jucător titular, iar arbitrul nu este informat cu
+    privire la această modificare: \n
+    \t• Arbitrul permite jucătorului desemnat ca înlocuitor să continue jocul. \n
+    \t• nu se poate dispune nicio sancţiune disciplinară împotriva jucătorului
+    desemnat ca înlocuitor \n
+    \t• Jucătorul desemnat ca jucător titular poate deveni jucător desemnat ca
+    înlocuitor. \n
+    \t• Nu se reduce numărul de înlocuiri. \n
+    \t• Arbitrul aduce incidentul la cunoştinţa autorităţilor competente. \n\n
+
+    În cazul în care se efectuează o înlocuire în timpul pauzei dintre reprize sau înainte
+    de prelungiri, procedura de înlocuire trebuie să se încheie înainte de reînceperea
+    meciului. În cazul în care arbitrul nu este informat, jucătorul desemnat ca înlocuitor
+    poate continua să joace, neluându-se nicio sancţiune disciplinară împotriva sa, iar
+    incidentul este adus la cunoştinţa autorităţilor competente. \n\n
+
+    În cazul în care un jucător înlocuieşte portarul fără permisiunea arbitrului, arbitrul: \n
+    \t• lasă jocul să continue. \n
+    \t• avertizează ambii jucători la următoarea ieşire a mingii din joc, dar nu şi în
+    cazul în care înlocuirea se produce în pauza dintre reprize (inclusiv în pauza
+    din prelungiri) sau în intervalul cuprins între sfârşitul meciului şi începerea
+    prelungirilor şi/sau loviturilor de departajare de la 11 m. \n\n
+
+    Pentru orice alte abateri de la această Lege: \n
+    \t• jucătorii sunt avertizaţi \n
+    \t• jocul este reluat cu o lovitură liberă indirectă din locul unde se afla mingea la
+    oprirea jocului.
+    </string>
+
+    <string name="law_3_6">Un jucător eliminat: \n
+        \t• anterior înaintării foii de joc, nu mai poate fi înscris pe aceasta în nicio calitate. \n
+        \t• după înscrierea pe foaia de joc şi înainte de lovitura de începere a partidei, poate
+        fi înlocuit de un jucător desemnat ca înlocuitor, acesta neputând fi înlocuit;
+        numărul de înlocuiri de care beneficiază echipa nu este redus. \n
+        \t• după lovitura de începere a partidei, nu poate fi înlocuit. \n\n
+
+        Un jucător desemnat ca înlocuitor eliminat înainte sau după lovitura de începere a
+        partidei nu poate fi înlocuit.
+    </string>
+
+    <string name="law_3_7">Antrenorul şi ceilalţi oficiali înscrişi pe foaia de joc (cu excepţia jucătorilor titulari
+        sau înlocuitori) reprezintă oficialii echipei. Persoanele care nu sunt înscrise pe
+        foaia de joc ca jucători, înlocuitori sau oficiali ai echipei sunt considerate persoane
+        străine/factori externi. \n\n
+
+        În cazul în care un oficial al echipei, un jucător înlocuitor, un jucător înlocuit,
+        un jucător eliminat sau o persoană străină/factor extern intră pe terenul de joc,
+        arbitrul trebuie: \n
+        \t• să oprească jocul, numai dacă se intervine în joc \n
+        \t• să dispună scoaterea persoanei respective la prima oprire a jocului \n
+        \t• să ia măsurile disciplinare adecvate. \n\n
+
+        Dacă jocul este oprit, iar cel care a intervenit în joc este: \n
+        \t• un oficial al echipei, un jucător înlocuitor, un jucător înlocuit sau un jucător
+        eliminat, jocul este reluat prin lovitură liberă directă sau lovitură de pedeapsă \n
+        \t• o persoană străină/factor extern, jocul este reluat cu o minge de arbitru. \n\n
+
+        Dacă mingea se îndreaptă spre poartă şi intervenţia nu împiedică un jucător
+        din apărare să joace mingea, se acordă gol dacă mingea intră în poartă (chiar
+        şi în cazul contactului cu mingea), în afară de situaţia în care intervenţia a fost
+        produsă de echipa în atac.
+    </string>
+
+    <string name="law_3_8">Dacă un jucător care necesită permisiunea arbitrului pentru a reintra pe terenul
+        de joc, reintră pe teren fără permisiunea acestuia, arbitrul trebuie: \n
+        \t• să oprească jocul (nu imediat, dacă jucătorul nu intervine în joc sau asupra
+        unui oficial de meci sau dacă poate fi aplicată regula avantajului) \n
+        \t• să avertizeze jucătorul pentru intrarea pe teren fără permisiune. \n\n
+
+        Dacă arbitrul opreşte jocul, acesta trebuie reluat: \n
+        \t• prin lovitură liberă directă din locul unde s-a produs intervenţia \n
+        \t• prin lovitură liberă indirectă din locul unde se afla mingea la oprirea jocului, în
+        cazul în care nu s-a produs nicio intervenţie. \n\n
+
+        Depăşirea uneia din liniile de demarcaţie a terenului de joc de un jucător în
+        cadrul unei acţiuni de joc nu este considerată abatere.
+    </string>
+
+    <string name="law_3_9">Dacă, după marcarea unui gol, dar înainte de reluarea jocului, arbitrul îşi dă
+        seama că pe terenul de joc se afla o persoană în plus în momentul marcării
+        golului: \n
+        \t• arbitrul trebuie să anuleze golul, dacă persoana în plus este: \n
+        \t• un jucător, un jucător înlocuitor, un jucător înlocuit, un jucător eliminat sau un
+        oficial al echipei care a marcat golul; jocul este reluat cu lovitură liberă directă
+        din locul unde se afla persoana respectivă \n
+        \t• o persoană străină/factor extern care a intervenit în joc, în afară de cazul în care
+        golul a fost înscris în modul prezentat la secţiunea „Persoane în plus pe terenul
+        de joc”; jocul este reluat cu o minge de arbitru \n
+        \t• arbitrul trebuie să valideze golul dacă persoana în plus este: \n
+        \t• un jucător, un jucător înlocuitor, un jucător înlocuit, un jucător eliminat sau un
+        oficial al echipei care a primit golul. \n
+        \t• o persoană străină/factor extern care nu a intervenit în joc. \n\n
+
+        În toate aceste cazuri, arbitrul trebuie să dispună scoaterea persoanei respective
+        de pe terenul de joc. \n\n
+
+        Dacă, după marcarea unui gol şi după reluarea jocului, arbitrul îşi dă seama că pe
+        terenul de joc se afla o persoană în plus în momentul marcării golului, golul nu mai
+        poate fi anulat. Dacă persoana respectivă se află în continuare pe teren, arbitrul
+        trebuie: \n
+        \t• să oprească jocul
+        \t• să dispună scoaterea persoanei respective de pe terenul de joc
+        \t• să dispună reluarea jocului cu o minge de arbitru sau prin lovitură liberă, după
+        caz. \n\n
+
+        Arbitrul trebuie să aducă incidentul la cunoştinţa autorităţilor competente.
+    </string>
+
+    <string name="law_3_10">Căpitanul echipei nu beneficiază de un statut special sau de alte privilegii, dar
+        răspunde, într-o anumită măsură, de comportamentul echipei.
+    </string>
+</resources>

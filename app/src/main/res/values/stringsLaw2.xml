@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_2_1">Toate mingile trebuie: \n
+        \t• să fie sferice \n
+        \t• să fie confecţionate dintr-un material adecvat \n
+        \t• să aibă o circumferinţă cuprinsă între 68 cm (27 ins) şi 70 cm (28 ins) \n
+        \t• să aibă o greutate cuprinsă între 410 g (14 oz) şi 450 g (16 oz) la începutul
+        meciului \n
+        \t• să aibă o presiune egală cu 0,6-1,1 atmosfere (600-1.100 g/cm2
+        ) la nivelul mării (8,5 lbs/sq in-15,6 lbs/sq in). \n\n
+
+        Toate mingile folosite în meciurile din competițiile oficiale organizate sub egida
+        FIFA sau a confederațiilor trebuie să îndeplinească cerințele și să fie prevăzute cu
+        marcajele Programului de calitate FIFA pentru Mingile de fotbal. \n\n
+
+        Fiecare dintre acestea indică faptul că mingea a fost testată oficial şi că
+        îndeplineşte cerinţele tehnice specifice marcajului respectiv, acestea reprezentând
+        cerinţe suplimentare faţă de specificaţiile minime prevăzute în Legea 2 şi trebuind
+        să fie aprobate de IFAB. \n\n
+
+        În cadrul competiţiilor organizate de asociaţiile naţionale de fotbal se poate
+        impune utilizarea de mingi prevăzute cu unul din aceste marcaje. \n\n
+
+        În cadrul meciurilor oficiale organizate sub egida FIFA, a confederaţiilor sau a
+        asociaţiilor naţionale de fotbal, pe minge nu este permisă niciun fel de publicitate
+        comercială, cu excepţia siglei/emblemei competiţiei, a organizatorului competiţiei
+        şi a mărcii comerciale a producătorului autorizat de mingi. Regulamentele
+        competiţiilor pot impune restricţii cu privire la mărimea şi numărul acestor
+        marcaje.
+    </string>
+
+    <string name="law_2_2">Dacă mingea se deteriorează: \n
+        \t• jocul este oprit şi \n
+        \t• reluat printr-o minge de arbitru \n\n
+
+        În cazul în care mingea se deteriorează la o lovitură de începere, lovitură de
+        poartă, lovitură de colţ, lovitură liberă, lovitură de pedeapsă sau aruncare de
+        la margine, jocul va fi reluat în mod corespunzător. \n\n
+
+        În cazul în care mingea se deteriorează la o lovitură de pedeapsă sau la o
+        lovitură de departajare de la 11 m în timp ce se mişcă înspre înainte, anterior
+        contactului cu un jucător, bara transversală sau stâlpii porţii, lovitura va fi
+        repetată. \n\n
+        Mingea nu poate fi schimbată în timpul meciului fără permisiunea arbitrului.
+    </string>
+
+    <string name="law_2_3">În jurul terenului de joc pot fi amplasate mingi suplimentare care întrunesc
+        cerinţele Legii 2, utilizarea acestora fiind dispusă de arbitru.
+    </string>
+</resources>

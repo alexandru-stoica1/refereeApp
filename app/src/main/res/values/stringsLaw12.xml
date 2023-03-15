@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_12_1">Loviturile directe şi indirecte, precum şi loviturile de pedeapsă pot fi acordate
+        doar pentru abateri comise când mingea este în joc.
+    </string>
+
+    <string name="law_12_2">Se acordă o lovitură liberă directă când arbitrul consideră că un jucător a
+        comis una din următoarele abateri împotriva unui adversar din neglijenţă sau
+        imprudenţă sau utilizând forţă excesivă: \n
+        \t• atacă adversarul \n
+        \t• sare asupra unui adversar \n
+        \t• loveşte sau încearcă să lovească adversarul cu piciorul \n
+        \t• împinge adversarul \n
+        \t• loveşte sau încearcă să lovească adversarul (inclusiv cu capul) \n
+        \t• atacă prin alunecare sau un mod de disputare a mingii \n
+        \t• pune piedică sau încearcă să pună piedică adversarului. \n\n
+
+        În caz de contact fizic, abaterea este sancţionată cu lovitură liberă directă. \n\n
+
+        \t• „Neglijenţă” se referă la faptul că jucătorul manifestă lipsă de atenţie sau de
+        grijă în timpul disputării mingii sau acţionează fără precauţie. Nu este necesară
+        aplicarea unei sancţiuni disciplinare. \n
+        \t• „Imprudenţă” se referă la faptul că jucătorul nu ţine cont de pericolul pe care
+        îl reprezintă acţiunea sa pentru adversar sau de consecinţele acesteia asupra
+        adversarului. Se sancţionează cu avertisment. \n
+        \t• „Utilizarea forţei excesive” se referă la faptul că jucătorul depăşeşte limita
+        necesară a folosirii forţei şi/sau pune în pericol integritatea corporală a
+        adversarului. Se sancţionează cu eliminare. \n\n
+
+        Se acordă o lovitură liberă directă dacă un jucător comite una din următoarele
+        abateri: \n
+        \t• comite o abatere prin jucarea mingii cu mâna (cu excepţia portarului în suprafaţa
+        proprie de pedeapsă) \n
+        \t• ţine un adversar \n
+        \t• împiedică înaintarea unui adversar prin contact fizic \n
+        \t• mușcă sau scuipă pe cineva de pe foaia de joc sau un oficial de meci \n
+        \t• aruncă un obiect spre minge, un adversar sau un oficial de meci sau atinge
+        mingea cu un obiect ţinut în mână. \n\n
+
+        A se vedea şi abaterile prevăzute de Legea 3. \n\n
+
+        <b>Jucarea mingii cu mâna</b>\n
+        În scopul stabilirii abaterii la jucarea mingii limita superioară a braţului coincide
+        cu limita inferioară a axilei. Nu orice atingere a mingii cu mâna/ brațul jucătorului
+        reprezintă o abatere. \n\n
+
+        Reprezintă o abatere dacă un jucător: \n
+        \t• atinge în mod deliberat mingea cu mâna/braţul, inclusiv prin mişcarea mâinii/
+        braţului spre minge \n
+        \t• înscrie un gol în poarta adversă direct cu mâna/braţul, fie şi în mod accidental,
+        acest lucru fiind valabil şi pentru portari \n
+        \t• după ce mingea i-a atins mâna/braţul, fie şi în mod accidental, imediat: \n
+        \t\t• înscrie un gol în poarta adversă \n\n
+
+        Portarul se supune aceloraşi restricţii referitoare la jucarea mingii cu mâna ca
+        şi ceilalţi jucători atunci când se află în afara suprafeţei de pedeapsă. În cazul în
+        care portarul joacă mingea cu mâna în interiorul suprafeţei de pedeapsă proprii,
+        în situaţia în care nu îi este permis acest lucru, se acordă lovitură liberă indirectă,
+        dar nu se aplică nicio sancţiune disciplinară. Însă, dacă abaterea constă în jucarea
+        mingii a doua oară (cu mâna/braţul sau nu) după reluarea jocului, înainte ca
+        aceasta să fi atins un alt jucător, portarul trebuie sancţionat, dacă prin abatere
+        se opreşte un atac promiţător sau se împiedică înscrierea unui gol sau o ocazie
+        evidentă de înscriere a unui gol de către un adversar sau echipa adversă.
+    </string>
+
+    <string name="law_12_3">Se acordă o lovitură liberă indirectă dacă un jucător: \n
+        \t• joacă periculos \n
+        \t• împiedică înaintarea unui adversar, fără a avea contact fizic cu acesta \n
+        \t• protestează folosind un limbaj şi/sau gesturi agresive, ofensatoare sau
+        ireverenţioase sau comite alte abateri de limbaj \n
+        \t• împiedică portarul să dea drumul mingii din mâini sau loveşte sau încearcă să
+        lovească mingea atunci când portarul se pregăteşte să dea drumul mingii \n
+        \t• inițiază o strategie deliberată pentru a pasa mingea (inclusiv dintr-o lovitură
+        liberă sau lovitură de poartă) către portar cu capul, pieptul, genunchiul etc.
+        pentru a eluda Legea, fie că portarul atinge sau nu mingea cu mâinile; portarul
+        este sancționat dacă este responsabil de inițierea strategiei intenționate \n
+        \t• comite orice altă abatere care nu este stipulată în Legile Jocului în urma căruia
+        jocul este oprit pentru avertizarea sau eliminarea unui jucător. \n\n
+
+        Se acordă lovitură liberă indirectă dacă portarul comite una din abaterile de mai jos
+        în interiorul suprafeţei de pedeapsă proprii: \n
+        \t• se află în posesia mingii şi ţine mingea cu mâna/braţul mai mult de şase secunde
+        înainte de a-i da drumul \n
+        \t• atinge mingea cu mâna/braţul după ce i-a dat drumul şi înainte de a fi atinsă de
+        alt jucător \n
+        \t• atinge mingea cu mâna/braţul, în afară de cazul în care a lovit în mod clar mingea
+        cu piciorul sau a încercat să lovească mingea cu piciorul pentru a-i da drumul în
+        joc, după ce: \n
+        \t\t• i-a fost trimisă deliberat cu piciorul de un coechipier \n
+        \t\t• a primit-o direct dintr-o aruncare de la margine efectuată de un coechipier. \n\n
+
+        Se consideră că portarul este în posesia mingii cu mâna/mâinile când: \n
+        \t• mingea se află în mâinile sale sau între mână şi o altă suprafaţă (de exemplu,
+        sol, propriul corp) sau când atinge mingea cu orice parte a mâinilor sau
+        braţelor, în afară de cazul în care aceasta îl loveşte sau când o respinge \n
+        \t• ţine mingea cu mâna larg deschisă \n
+        \t• bate mingea de pământ sau o aruncă în aer. \n\n
+
+        Un portar nu poate fi atacat de un adversar când se află în posesia mingii cu
+        mâna/mâinile. \n\n
+
+        <b>Jocul periculos</b>\n
+        Jocul periculos reprezintă orice acţiune a unui jucător care, în timp ce încearcă
+        să joace mingea, riscă să accidenteze pe cineva (inclusiv pe el însuşi). Printre
+        situaţiile de joc periculos se numără împiedicarea unui adversar aflat în
+        apropiere să joace mingea, acestuia fiindu-i teamă de accidentare. \n\n
+
+        Foarfeca sau bicicleta sunt permise dacă nu prezintă pericol pentru adversar. \n\n
+
+        <b>Împiedicarea înaintării unui adversar fără contact fizic</b>\N
+        Împiedicarea înaintării unui adversar înseamnă ieşirea în calea unui adversar
+        pentru a-l obstrucţiona, bloca, încetini sau forţa să îşi schimbe direcţia când
+        mingea nu este la distanţă de joc de niciunul dintre jucători. \n\n
+
+        Toţi jucătorii au dreptul de a ocupa o poziţie pe teren; a sta în calea adversarului
+        nu este acelaşi lucru cu a ieşi în calea acestuia. \n\n
+
+        Un jucător poate proteja mingea, poziţionându-se între un adversar şi minge
+        dacă mingea se află la distanţa de joc, iar adversarul nu este ţinut cu braţele
+        sau corpul. Dacă mingea se află la distanţa de joc, jucătorul poate fi atacat
+        regulamentar de un adversar.
+    </string>
+
+    <string name="law_12_4">Arbitrul este abilitat să ia măsuri disciplinare de la intrarea pe terenul de joc
+        pentru inspecţia de dinaintea meciului şi până la părăsirea acestuia după
+        sfârşitul meciului (inclusiv loviturile de departajare de la 11 m). \n\n
+
+        Dacă, înainte de intrarea pe terenul de joc la începutul meciului, un jucător sau
+        un oficial al unei echipe comite o abatere care se sancţionează cu eliminare,
+        arbitrul este abilitat să interzică jucătorului sau oficialului echipei să ia parte la
+        meci (a se vedea Legea 3.6); arbitrul va raporta orice altă abatere. \n\n
+
+        Un jucător sau un oficial al unei echipe care comite o abatere care se sancţionează
+        cu avertisment sau eliminare, pe terenul de joc sau în afara acestuia, va fi sancţionat
+        în funcţie de abaterea comisă. \n\n
+
+        Cartonaşul galben indică un avertisment, iar cartonaşul roşu o eliminare. \n\n
+
+        Cartonaşul roşu sau galben nu poate fi arătat decât unui jucător, jucător înlocuitor,
+        jucător înlocuit sau oficial al unei echipe. \n\n
+
+        <b>Jucătorii, jucătorii înlocuitori şi jucătorii înlocuiţi</b>\n\n
+
+        <b>Întârzierea reluării jocului pentru arătarea unui cartonaş</b>\n
+        Odată ce arbitrul a decis acordarea unui cartonaş, pentru a avertiza sau elimina
+        un jucător, jocul nu trebuie reluat înainte de a fi aplicată sancţiunea, cu excepţia
+        cazului în care echipa împotriva căreia s-a comis abaterea execută rapid o lovitură
+        liberă, are o ocazie clară de a înscrie un gol, iar arbitrul nu a început procedura de
+        aplicare a sancţiunii disciplinare. Sancţiunea este aplicată la următoarea oprire a
+        jocului. Dacă abaterea a constat în împiedicarea unei ocazii clare de înscriere a unui
+        gol de către echipa adversă ori în intervenţia asupra unei astfel de ocazii, jucătorul
+        nu va fi avertizat. \n\n
+
+        <b>Avantajul</b>\n
+        Dacă arbitrul acordă avantaj în cazul comiterii unei abateri care ar fi sancţionată
+        cu avertisment/eliminare, dacă jocul ar fi fost oprit, avertismentul/eliminarea
+        respectiv(ă) trebuie acordat(ă) la următoarea ieşire a mingii din joc. Însă, dacă
+        abaterea i-a anulat echipei adverse o ocazie clară de înscriere a unui gol, jucătorul
+        este avertizat pentru joc nesportiv. Dacă abaterea a constat în împiedicarea unui
+        atac promiţător ori în intervenţia într-un astfel de atac, jucătorul nu va fi avertizat.\n\n
+
+        Regula avantajului nu trebuie aplicată în cazuri de fault grosolan, comportament
+        violent sau în cazul comiterii unei a doua abateri pasibile de avertisment, decât
+        dacă există o ocazie clară de înscriere a unui gol. Arbitrul trebuie să elimine
+        jucătorul la prima ieşire a mingii din joc, dar dacă jucătorul joacă mingea sau
+        îşi dispută mingea cu adversarul/intervine asupra acestuia, arbitrul trebuie să
+        oprească jocul, să elimine jucătorul şi să dispună reluarea jocului prin lovitură
+        liberă indirectă, în afară de cazul în care jucătorul a comis o abatere mai gravă. \n\n
+
+        Dacă un jucător din apărare începe să ţină un jucător aflat în atac în afara
+        suprafeţei de pedeapsă şi continuă să-l ţină şi în interiorul suprafeţei de
+        pedeapsă, arbitrul trebuie să acorde lovitură de pedeapsă. \n\n
+
+        <b>Abateri sancţionate cu avertisment</b>\n
+        Un jucător este avertizat dacă se face vinovat de una din următoarele abateri: \n
+        \t• întârzie reluarea jocului \n
+        \t• protestează verbal sau prin gesturi \n
+        \t• intră, reintră sau iese în mod deliberat de pe terenul de joc, fără permisiunea
+        arbitrului \n
+        \t• nu respectă distanţa regulamentară la reluarea jocului printr-o minge de
+        arbitru, lovitură de colţ, lovitură liberă sau aruncare de la margine \n
+        \t• comite în mod repetat abateri („în mod repetat” nu implică o limită cu privire
+        la numărul sau tipul abaterilor) \n
+        \t• dă dovadă de comportament nesportiv \n
+        \t• intră în zona de analiză video pentru arbitru \n
+        \t• face uz excesiv de semnalul de solicitare a analizei video (ecran TV). \n\n
+
+        Un jucător înlocuitor sau un jucător înlocuit este avertizat dacă se face vinovat de
+        una din următoarele abateri: \n
+        \t• întârzie reluarea jocului \n
+        \t• protestează verbal sau prin gesturi \n
+        \t• intră sau reintră pe terenul de joc fără permisiunea arbitrului \n
+        \t• dă dovadă de comportament nesportiv \n
+        \t• intră în zona de analiză video pentru arbitru \n
+        \t• face uz excesiv de semnalul de solicitare a analizei video (ecran TV). \n\n
+
+        În cazul în care se comit două abateri distincte sancţionabile cu avertisment
+        (chiar dacă la foarte scurt timp una după alta), se vor da două avertismente;
+        de exemplu, dacă un jucător intră pe teren fără permisiune şi comite un atac
+        imprudent prin alunecare sau opreşte un atac promiţător prin fault/jucarea
+        mingii cu mâna etc. \n\n
+
+        <b>Avertisment pentru comportament nesportiv</b>\n
+        Există diferite circumstanțe când un jucător trebuie avertizat pentru
+        comportament nesportiv, inclusiv dacă un jucător: \n
+        \t• încearcă să ducă în eroare arbitrul, de exemplu, simulând accidentarea sau
+        pretinzând că a fost faultat (simulare) \n
+        \t• îşi schimbă postul cu portarul în timpul jocului sau fără permisiunea arbitrului
+        (a se vedea Legea 3) \n
+        \t• comite cu imprudenţă o abatere pasibilă de sancţionare cu lovitură liberă
+        directă \n
+        \t• joacă mingea cu mâna cu scopul de a interveni într-un atac promiţător sau de a-l
+        opri \n
+        \t• comite orice altă abatere pentru a interveni într-un atac promiţător sau a-l opri,
+        în afară de cazul în care arbitrul acordă o lovitură de pedeapsă pentru o abatere
+        comisă ca urmare a unei încercări de jucare a mingii \n
+        \t• împiedică o ocazie clară de înscriere a unui gol de către adversar, comiţând
+        o abatere ca urmare a unei încercări de a juca mingea, iar arbitrul acordă o
+        lovitură de pedeapsă \n
+        \t• joacă mingea cu mâna, încercând să marcheze un gol (indiferent dacă reuşeşte
+        sau nu) sau încercând, fără a reuşi, să împiedice înscrierea unui gol \n
+        \t• trasează marcaje neautorizate pe terenul de joc \n
+        \t• joacă mingea în timp ce iese de pe terenul de joc, după ce a primit permisiunea
+        de a părăsi terenul \n
+        \t• manifestă lipsă de respect pentru joc \n
+        \t• inițiază o strategie deliberată pentru ca mingea să fie pasată către portar cu
+        capul, pieptul, genunchiul etc. pentru a eluda Legea, fie că portarul atinge sau nu
+        mingea cu mâinile; portarul este sancționat dacă este responsabil de inițierea
+        strategiei deliberate \n
+        \t• distrage verbal atenţia adversarului în timpul jocului sau la reluarea acestuia. \n\n
+
+        <b>Manifestări de bucurie la înscrierea unui gol</b>\n
+        Jucătorii îşi pot exprima bucuria la înscrierea unui gol, dar nu sunt permise
+        manifestările excesive; nu sunt încurajate manifestările regizate, acestea
+        netrebuind să cauzeze pierderea excesivă a timpului. \n\n
+
+        Părăsirea terenului de joc pentru manifestarea bucuriei înscrierii unui gol nu
+        reprezintă o abatere pasibilă de sancţionarea cu avertisment, dar jucătorii trebuie
+        să revină pe teren cât mai repede. \n\n
+
+        Un jucător trebuie avertizat, chiar dacă golul este anulat, dacă: \n
+        \t• escaladează gardul care împrejmuieşte terenul şi/sau se apropie de spectatori
+        într-un mod care creează probleme de siguranţă şi/sau securitate \n
+        \t• face gesturi sau întreprinde acţiuni provocatoare, persiflante sau instigatoare \n
+        \t• îşi acoperă capul sau faţa cu o mască sau cu un obiect similar \n
+        \t• îşi scoate tricoul sau îşi acoperă capul cu tricoul. \n\n
+
+        <b>Întârzierea reluării jocului</b>/n
+        Arbitrii trebuie să avertizeze jucătorii care întârzie reluarea jocului prin practici,
+        precum cele de mai jos: \n
+        \t• simulează intenţia de a efectua o aruncare de la margine, dar renunţă brusc şi
+        lasă un coechipier să efectueze aruncarea \n
+        \t• întârzie părăsirea terenului în momentul în care sunt înlocuiţi \n
+        \t• întârzie în mod excesiv reluarea jocului \n
+        \t• lovesc mingea pentru a o îndepărta sau o iau cu ei sau provoacă o confruntare
+        prin atingerea deliberată a mingii după ce arbitrul a oprit jocul \n
+        \t• execută o lovitură liberă dintr-un alt loc pentru a forţa repetarea acesteia. \n\n
+
+        <b>Abateri sancţionate cu eliminare</b>\n
+        Un jucător, un jucător înlocuitor sau un jucător înlocuit este eliminat din joc dacă
+        se face vinovat de una din următoarele abateri: \n
+        \t• împiedică echipa adversă să înscrie un gol sau împiedică o ocazie clară de
+        înscriere a unui gol a echipei adverse prin comiterea unei abateri prin jucarea
+        mingii cu mâna (cu excepţia portarului aflat în propria suprafaţă de pedeapsă) \n
+        \t• împiedică un adversar să înscrie un gol sau împiedică o ocazie clară de
+        înscriere a unui gol de către un adversar a cărui direcţie generală de deplasare
+        este către poarta jucătorului vinovat, prin comiterea unei abateri care se
+        sancţionează cu lovitură liberă (în afară de cazul în care se aplică prevederile
+        secţiunii următoare) \n
+        \t\t• comite un fault grosolan \n
+        \t\t• muşcă sau scuipă pe cineva \n
+        \t\t• are un comportament violent \n
+        \t\t• foloseşte un limbaj şi/sau gesturi agresive, ofensatoare sau ireverenţioase \n
+        \t\t• primeşte un al doilea avertisment în acelaşi meci \n
+        \t\t• intră în studioul de analiză video. \n\n
+
+        Un jucător, jucător înlocuitor sau jucător înlocuit care a fost eliminat trebuie să
+        părăsească zona din proximitatea terenului de joc, precum şi suprafaţa tehnică. \n\n
+
+        <b>Împiedicarea înscrierii unui gol sau a unei ocazii clare de înscriere a unui gol</b>\n
+        Atunci când un jucător împiedică echipa adversă să înscrie un gol sau împiedică o
+        ocazie clară de înscriere a unui gol a echipei adverse prin comiterea unei abateri
+        prin jucarea mingii cu mâna, jucătorul respectiv este eliminat indiferent de
+        locul unde are loc abaterea (cu excepţia portarului aflat în propria suprafaţă de
+        pedeapsă). \n\n
+
+        Atunci când un jucător comite o abatere împotriva unui adversar în propria
+        suprafaţă de pedeapsă, împiedicând astfel o ocazie clară de înscriere a unui gol
+        pentru adversar, iar arbitrul acordă o lovitură de pedeapsă, jucătorul vinovat este
+        avertizat dacă abaterea este comisă ca urmare a unei încercări de a juca mingea;
+        în toate celelalte situaţii (de exemplu, ţinere, tragere, împingere a adversarului,
+        imposibilitatea de a juca mingea etc.), jucătorul vinovat trebuie eliminat. \n\n
+
+        Un jucător, jucător eliminat, jucător înlocuitor sau jucător înlocuit care intră pe
+        terenul de joc fără permisiunea necesară din partea arbitrului şi intervine în
+        joc sau asupra unui adversar, împiedicând echipa adversă să înscrie un gol sau
+        împiedicând o ocazie clară de înscriere a unui gol de către echipa adversă comite o
+        abatere care se sancţionează cu eliminare. \n\n
+
+        Se va ţine cont de următoarele elemente: \n
+        \t• distanţa dintre locul unde este comisă abaterea şi poartă \n
+        \t• direcţia generală a jocului \n
+        \t• posibilitatea de a păstra sau recupera mingea \n
+        \t• poziţia şi numărul apărătorilor. \n\n
+
+        <b>Fault grosolan</b>\n
+        Un atac prin alunecare sau un mod de disputare a mingii care pune în pericol
+        integritatea corporală a unui adversar sau care utilizează forţă excesivă sau
+        brutalitate trebuie sancţionat ca fault grosolan. \n\n
+
+        Un jucător care loveşte un adversar în momentul disputării mingii din faţă, din
+        lateral sau din spate, cu unul sau ambele picioare, făcând uz de forţă excesivă sau
+        punând în pericol integritatea corporală a adversarului, se face vinovat de fault
+        grosolan. \n\n
+
+        <b>Comportament violent</b>\n
+        Comportamentul violent se referă la situaţiile în care un jucător utilizează sau
+        încearcă să utilizeze forţă excesivă sau brutalitate împotriva unui adversar fără a
+        disputa mingea sau împotriva unui coechipier, oficial al echipei, oficial de meci,
+        spectator sau orice altă persoană, indiferent dacă a avut loc sau nu un contact
+        fizic. \n\n
+
+        De asemenea, un jucător care nu participă la disputarea mingii şi loveşte în mod
+        deliberat un adversar sau orice altă persoană în cap sau în faţă cu mâna sau cu
+        braţul se face vinovat de comportament violent, în afară de cazul în care forţa
+        loviturii este neglijabilă. \n\n
+
+        <b>Oficialii echipelor</b>\n
+        În cazul în care se comite o abatere, iar persoana vinovată de abatere nu poate
+        fi identificată, va primi sancţiunea antrenorul principal prezent în suprafaţa
+        tehnică. \n\n
+
+        <b>Atenţionare</b>\n
+        Următoarele abateri sunt pasibile, în general, de atenţionare; repetarea lor
+        sau abaterile flagrante ar trebui să fie urmate de avertisment sau eliminare: \n
+        \t• intrarea pe terenul de joc într-un mod respectuos/neconflictual \n
+        \t• necooperarea cu oficialii de meci, de exemplu, neluarea în seamă a unei
+        indicaţii/solicitări din partea unui arbitru asistent sau a celui de-al patrulea
+        oficial de meci \n
+        \t• manifestări minore/neimportante de dezacord (verbale sau gestuale) faţă de o
+        decizie \n
+        \t• ieşirea din când în când în afara limitelor suprafeţei tehnice, fără comiterea
+        unei alte abateri. \n\n
+
+        <b>Avertisment</b>\n
+        Abaterile sancţionate cu avertisment includ (fără ca enumerarea să fie exhaustivă): \n
+        \t• nerespectarea clară/constantă a limitelor suprafeţei tehnice a propriei echipe \n
+        \t• întârzierea reluării jocului de propria echipă \n
+        \t• intrarea deliberată în suprafaţa tehnică a echipei adverse (într-un mod
+        neconflictual) \n
+        \t• manifestări verbale sau gestuale de dezacord incluzând: \n
+        \t\t• aruncarea/lovirea cu piciorul a unor recipiente de băuturi sau a altor obiecte \n
+        \t\t• gesturi care arată o lipsă clară de respect faţă de oficialii de meci, de exemplu,
+        aplauze sarcastice \n
+        \t• intrarea în zona de analiză video pentru arbitru \n
+        \t• gesticularea excesivă/constantă în legătură cu acordarea unui cartonaş roşu sau
+        galben \n
+        \t• efectuarea excesivă a semnalului corespunzător ecranului TV pentru a solicita
+        arbitraj video \n
+        \t• gesturi sau acţiuni provocatoare sau instigatoare \n
+        \t• comportament inacceptabil constant (inclusiv abateri repetate sancţionate cu
+        atenţionare) \n
+        \t• manifestarea de lipsă de respect faţă de joc. \n\n
+
+        <b>Eliminare</b>\n
+        Abaterile sancţionate cu eliminare includ (fără ca enumerarea să fie exhaustivă): \n
+        \t• întârzierea reluării jocului de echipa adversă, de exemplu, ţinerea mingii,
+        degajarea mingii, obstrucţionarea unui jucător \n
+        \t• părăsirea deliberată a suprafeţei tehnice pentru: \n
+        \t\t• a-şi manifesta dezacordul sau a obiecta faţă de un oficial de meci \n
+        \t\t• a acţiona de o manieră provocatoare sau instigatoare. \n
+        \t• intrarea în suprafaţa tehnică a echipei adverse într-un mod agresiv sau
+        conflictual \n
+        \t• aruncarea/lovirea cu piciorul în mod deliberat a unui obiect pe terenul de joc \n
+        \t• intrarea pe terenul de joc pentru: \n
+        \t\t• a înfrunta un oficial de meci (inclusiv în pauza dintre reprize sau la sfârşitul
+        meciului) \n
+        \t\t• a interveni în joc, asupra unui jucător din echipa adversă sau asupra unui
+        oficial de meci \n
+        \t• intrarea în studioul de analiză video \n
+        \t• comportament agresiv sau implicând contact fizic (inclusiv scuiparea sau
+        muşcarea) faţă de un jucător, jucător înlocuitor, oficial al echipei adverse,
+        oficial de meci, spectator sau orice altă persoană (de exemplu, copil de mingi,
+        responsabil de securitate, oficial al competiţiei etc.) \n
+        \t• primirea unui al doilea avertisment în acelaşi meci \n
+        \t• folosirea unui limbaj şi/sau unor gesturi agresive, ofensatoare sau
+        ireverenţioase \n
+        \t• utilizarea de echipamente electronice sau de comunicare neautorizate şi/sau
+        manifestarea unui comportament necorespunzător ca urmare a utilizării de
+        echipamente electronice sau de comunicare \n
+        \t• comportament violent. \n\n
+
+        <b>Abateri care implică aruncarea unui obiect (sau a mingii)</b>\n
+        În toate cazurile, arbitrul va lua măsura disciplinară corespunzătoare: \n
+        \t• imprudenţă - jucătorul vinovat este avertizat pentru comportament
+        nesportiv \n
+        \t• utilizarea forţei excesive - jucătorul vinovat este eliminat pentru
+        comportament violent.
+    </string>
+
+    <string name="law_12_5">Dacă mingea este afară din joc, jocul este reluat în conformitate cu decizia
+        anterioară. \n
+        Dacă mingea este în joc şi un jucător comite o abatere de natură fizică pe terenul
+        de joc împotriva: \n
+        \t• unui adversar - lovitură liberă indirectă sau directă sau lovitură de pedeapsă \n
+        \t• unui coechipier, jucător înlocuitor, jucător înlocuit sau jucător eliminat, oficial
+        al echipei sau oficial de meci - lovitură liberă directă sau lovitură de pedeapsă. \n\n
+
+        Toate abaterile de natură verbală sunt sancţionate cu lovitură liberă indirectă. \n\n
+
+        Dacă arbitrul opreşte jocul ca urmare a unei abateri comise de un jucător pe
+        terenul de joc sau în afara acestuia împotriva unui factor extern, jocul este reluat cu
+        o minge de arbitru, cu excepţia cazului în care se acordă o lovitură liberă indirectă
+        pentru ieşirea de pe terenul de joc fără permisiunea arbitrului; lovitura liberă
+        indirectă se execută din punctul de pe linia terenului pe unde jucătorul a părăsit
+        terenul de joc. \n\n
+
+        Dacă, în timp ce mingea este în joc: \n
+        \t• un jucător comite o abatere împotriva unui oficial de meci sau împotriva unui
+        jucător, jucător înlocuitor, jucător înlocuit sau jucător eliminat al echipei adverse
+        sau împotriva unui oficial al echipei adverse în afara terenului de joc sau \n
+        \t• un jucător înlocuitor, jucător înlocuit sau jucător eliminat sau un oficial al echipei
+        comite o abatere împotriva unui jucător al echipei adverse sau împotriva unui
+        oficial de meci sau intervine asupra unuia dintre aceştia în afara terenului de joc, \n
+
+        jocul este reluat cu o lovitură liberă de pe linia terenului, din punctul cel mai
+        apropiat de locul unde s-a produs abaterea/intervenţia; pentru abaterile pasibile
+        de sancţiunea cu lovitură liberă directă, se acordă lovitură de pedeapsă dacă
+        abaterea a fost comisă în interiorul suprafeţei de pedeapsă a echipei jucătorului
+        vinovat. \n\n
+
+        În cazul comiterii de un jucător a unei abateri în afara terenului de joc împotriva
+        unui jucător, jucător înlocuitor, jucător înlocuit sau oficial al propriei echipe, jocul
+        se reia cu o lovitură liberă indirectă de pe linia terenului cea mai apropiată de locul
+        unde a fost comisă abaterea. \n\n
+
+        În cazul în care un jucător atinge mingea cu un obiect pe care îl ţine în mână
+        (gheată, apărătoare de tibie etc.), jocul se reia cu lovitură liberă directă (sau cu
+        lovitură de pedeapsă). \n\n
+
+        Dacă un jucător aflat pe terenul de joc sau în afara acestuia aruncă sau loveşte cu
+        piciorul un obiect (cu excepţia mingii de joc) către un jucător al echipei adverse
+        sau aruncă sau loveşte cu piciorul un obiect (inclusiv o minge) către un jucător
+        înlocuitor, jucător înlocuit sau jucător eliminat sau oficial al echipei adverse sau
+        către un oficial de meci sau către mingea de meci, jocul este reluat cu o lovitură
+        liberă directă din locul unde obiectul a lovit sau ar fi putut lovi persoana sau
+        mingea. Dacă acest loc este în afara terenului de joc, lovitura liberă se execută
+        în punctul cel mai apropiat de pe linia terenului; în cazul în care locul se află
+        în suprafaţa de pedeapsă a echipei jucătorului care comite abaterea, se acordă
+        lovitură de pedeapsă. \n\n
+
+        Dacă un jucător înlocuitor, jucător înlocuit sau jucător eliminat sau un jucător
+        aflat temporar în afara terenului de joc sau un oficial al echipei aruncă sau
+        loveşte cu piciorul un obiect, proiectându-l pe terenul de joc, iar acesta intervine
+        în joc, asupra unui adversar sau oficial de meci, jocul este reluat cu o lovitură
+        liberă directă (sau lovitură de pedeapsă) din locul în care obiectul a intervenit
+        în joc sau unde a lovit sau ar fi putut lovi adversarul, oficialul de meci sau mingea.
+    </string>
+</resources>

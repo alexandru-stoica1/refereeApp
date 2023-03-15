@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law1">Legea 1</string>
+    <string name="law2">Legea 2</string>
+    <string name="law3">Legea 3</string>
+    <string name="law4">Legea 4</string>
+    <string name="law5">Legea 5</string>
+    <string name="law6">Legea 6</string>
+    <string name="law7">Legea 7</string>
+    <string name="law8">Legea 8</string>
+    <string name="law9">Legea 9</string>
+    <string name="law10">Legea 10</string>
+    <string name="law11">Legea 11</string>
+    <string name="law12">Legea 12</string>
+    <string name="law13">Legea 13</string>
+    <string name="law14">Legea 14</string>
+    <string name="law15">Legea 15</string>
+    <string name="law16">Legea 16</string>
+    <string name="law17">Legea 17</string>
+
+    <string-array name="law1">
+        <item>1.Suprafata terenului de joc</item>
+        <item>2.Marcajele terenului de joc</item>
+        <item>3.Dimensiuni</item>
+        <item>4.Dimensiuni pentru meciuri internationale</item>
+        <item>5.Suprafata de poarta</item>
+        <item>6.Suprafata de pedeapsa</item>
+        <item>7.Suprafata de colt</item>
+        <item>8.Steagurile</item>
+        <item>9.Suprafata tehnica</item>
+        <item>10.Portile</item>
+        <item>11.Tehnologia de pe linia portii(GLT)</item>
+        <item>12.Publicitatea comerciala</item>
+        <item>13.Sigle si embleme</item>
+        <item>14.Asistenta video la arbitraj(VAR)</item>
+    </string-array>
+
+    <string-array name="law2">
+        <item>1.Caracteristici si dimensiuni</item>
+        <item>2.Inlocuirea unei mingi deteriorate</item>
+        <item>3.Mingi suplimentare</item>
+    </string-array>
+
+    <string-array name="law3">
+        <item>1.Numarul de jucatori</item>
+        <item>2.Numarul de inlocuiri</item>
+        <item>3.Procedura de inlocuire</item>
+        <item>4.Inlocuirea portarului</item>
+        <item>5.Abateri si sanctiuni</item>
+        <item>6.Eliminarea jucatorilor titulari si jucatorilor inlocuitori</item>
+        <item>7.Persoane in plus pe terenul de joc</item>
+        <item>8.Jucator iesit in afara terenului de joc</item>
+    </string-array>
+
+    <string-array name="law4">
+        <item>1.Masuri de siguranta</item>
+        <item>2.Echipamentul obligatoriu</item>
+        <item>3.Culorile</item>
+        <item>4.Alte articole de echipament</item>
+        <item>5.Sloganuri, declaratii, imagini si publicitate</item>
+        <item>6.Abateri si sanctiuni</item>
+    </string-array>
+
+    <string-array name="law5">
+        <item>1.Autoritatea arbitrului</item>
+        <item>2.Deciziile arbitrului</item>
+        <item>3.Atributii si indatoriri</item>
+        <item>4.Asistenta video la arbitraj (VAR)</item>
+        <item>5.Echipamentul arbitrului</item>
+        <item>6.Semnalele arbitrului</item>
+        <item>7.Responsabilitatile oficialilor de meci</item>
+    </string-array>
+
+    <string-array name="law6">
+        <item>Introducere</item>
+        <item>1.Arbitrii asistenti</item>
+        <item>2.Al patrulea oficial</item>
+        <item>3.Arbitrii asistenti suplimentari</item>
+        <item>4.Arbitrul asistent de rezerva</item>
+        <item>5.Oficialii de meci pentru analiza video</item>
+        <item>6.Semnalele arbitrului asistent</item>
+        <item>7.Semnalele arbitrului asistent suplimentar</item>
+    </string-array>
+
+    <string-array name="law7">
+        <item>1.Reprizele</item>
+        <item>2.Pauza dintre reprize</item>
+        <item>3.Prelungiri pentru timpul pierdut</item>
+        <item>4.Lovitura de pedeapsa</item>
+        <item>5.Oprirea definitiva a meciului</item>
+    </string-array>
+
+    <string-array name="law8">
+        <item>Introducere</item>
+        <item>1.Lovitura de incepere</item>
+        <item>2.Mingea de arbitru</item>
+    </string-array>
+
+    <string-array name="law9">
+        <item>1.Mingea afara din joc</item>
+        <item>2.Mingea in joc</item>
+    </string-array>
+
+    <string-array name="law10">
+        <item>1.Inscrierea unui gol</item>
+        <item>2.Echipa invingatoare</item>
+        <item>3.Loviturile de departajare de la 11 m</item>
+    </string-array>
+
+    <string-array name="law11">
+        <item>1.Pozitia de ofsaid</item>
+        <item>2.Situatii considerate abateri</item>
+        <item>3.Situatii neconsiderate abateri</item>
+        <item>4.Abateri si sanctiuni</item>
+    </string-array>
+
+    <string-array name="law12">
+        <item>Introducere</item>
+        <item>1.Lovitura libera directa</item>
+        <item>2.Lovitura libera indirecta</item>
+        <item>3.Sanctiuni disciplinare</item>
+        <item>4.Reluarea jocului dupa faulturi si comportament nesportiv</item>
+    </string-array>
+
+    <string-array name="law13">
+        <item>1.Tipuri de lovituri libere</item>
+        <item>2.Procedura</item>
+        <item>3.Abateri si sanctiuni</item>
+    </string-array>
+
+    <string-array name="law14">
+        <item>Introducere</item>
+        <item>1.Procedura</item>
+        <item>2.Abateri si sanctiuni</item>
+        <item>3.Tabel rezumativ</item>
+    </string-array>
+
+    <string-array name="law15">
+        <item>Introducere</item>
+        <item>1.Procedura</item>
+        <item>2.Abateri si sanctiuni</item>
+    </string-array>
+
+    <string-array name="law16">
+        <item>Introducere</item>
+        <item>1.Procedura</item>
+        <item>2.Abateri si sanctiuni</item>
+    </string-array>
+
+    <string-array name="law17">
+        <item>Introducere</item>
+        <item>1.Procedura</item>
+        <item>2.Abateri si sanctiuni</item>
+    </string-array>
+</resources>

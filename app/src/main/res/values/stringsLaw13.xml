@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_13_1">Loviturile libere directe şi indirecte se acordă echipei adverse jucătorului,
+        jucătorului înlocuitor, jucătorului înlocuit sau eliminat sau oficialului echipei
+        care se face vinovat de o abatere. \n\n
+
+        <b>Semnalul pentru lovitura liberă indirectă</b>\n
+        Arbitrul semnalizează acordarea unei lovituri libere indirecte prin ridicarea
+        braţului deasupra capului; semnalul este menţinut până în momentul în care
+        lovitura este executată şi mingea atinge alt jucător, iese afară din joc sau este
+        clar că nu poate fi marcat direct un gol. \n\n
+
+        O lovitură liberă indirectă trebuie să fie repetată dacă arbitrul nu semnalizează
+        că lovitura respectivă este o lovitură indirectă, iar mingea este trimisă direct în
+        poartă. \n\n
+
+        <b>Mingea intră în poartă</b>\n
+        \t• Dacă, dintr-o lovitură liberă directă, mingea intră direct în poarta adversă, se
+        acordă gol. \n
+        \t• Dacă, dintr-o lovitură liberă indirectă, mingea intră direct în poarta adversă,
+        se acordă lovitură de poartă. \n
+        \t• Dacă, dintr-o lovitură liberă directă sau indirectă, mingea intră în poarta
+        proprie, se acordă lovitură de colţ.
+    </string>
+
+    <string name="law_13_2">Toate loviturile libere sunt executate din locul unde s-a produs abaterea, cu
+        următoarele excepţii: \n
+        \t• Loviturile libere indirecte acordate echipei în atac pentru o abatere produsă
+        în suprafaţa de poartă a echipei adverse sunt executate din punctul cel mai
+        apropiat de pe linia suprafeţei de poartă paralelă cu linia porţii. \n
+        \t• Loviturile libere acordate echipei în apărare în propria suprafaţă de poartă
+        pot fi executate din orice punct al acesteia. \n
+        \t• Loviturile libere pentru abateri care implică intrarea, reintrarea sau ieşirea unui
+        jucător de pe terenul de joc fără permisiune sunt executate din locul unde se afla
+        mingea în momentul opririi jocului. Cu toate acestea, dacă un jucător comite o
+        abatere în afara terenului de joc, jocul este reluat cu o lovitură liberă de pe linia
+        terenului cea mai apropiată de locul unde a avut loc abaterea; pentru abateri
+        sancţionate cu lovitură liberă directă, se acordă o lovitură de pedeapsă dacă
+        abaterea s-a produs în interiorul suprafeţei de pedeapsă a jucătorului vinovat. \n
+        \t• în cazul în care Legile Jocului prevăd alt loc de unde se execută lovitura (a se
+        vedea Legile 3, 11, 12). \n\n
+
+        Mingea: \n
+        \t• trebuie să fie statică, iar executantul nu are voie să atingă mingea din nou înainte
+        ca aceasta să fie atinsă de un alt jucător \n
+        \t• este în joc atunci când este lovită şi se mişcă în mod clar. \n\n
+
+        Până când mingea este în joc, toţi adversarii trebuie să rămână: \n
+        \t• la minimum 9,15 m (10 yds) de minge, în afară de cazul în care se află pe propria
+        linie de poartă, între stâlpii porţii \n
+        \t• în afara suprafeţei de pedeapsă pentru loviturile libere acordate în interiorul
+        suprafeţei de pedeapsă a echipei adverse. \n\n
+
+        În cazul în care trei sau mai mulţi jucători ai echipei în apărare formează un „zid”,
+        toţi jucătorii echipei în atac trebuie să rămână la minimum 1 m (1 yd) faţă de „zid”
+        până când mingea este în joc. \n\n
+
+        O lovitură liberă poate fi executată prin ridicarea mingii cu un picior sau cu ambele
+        picioare simultan. \n\n
+
+        Executarea unei fente, constând în simularea executării unei lovituri libere pentru a
+        deruta adversarii, este permisă, făcând parte din jocul de fotbal. \n\n
+
+        Dacă un jucător care execută corect o lovitură liberă trimite în mod deliberat
+        mingea într-un adversar cu intenţia de a rejuca mingea, dar nu face acest lucru
+        într-un mod neglijent sau imprudent sau folosind forţă excesivă, arbitrul lasă jocul
+        să continue.
+    </string>
+
+    <string name="law_13_3">Dacă, la executarea unei lovituri libere, un adversar este la o distanţă mai mică
+        de minge decât distanţa regulamentară, lovitura este repetată, în afară de cazul
+        în care poate fi aplicată regula avantajului; dar, dacă un jucător execută rapid
+        lovitura liberă şi un adversar care se află la o distanţă mai mică de 9,15 m (10
+        yds) de minge o interceptează, arbitrul lasă jocul să continue. Cu toate acestea,
+        un adversar care împiedică în mod deliberat executarea rapidă a unei lovituri
+        libere trebuie să fie avertizat pentru întârzierea reluării jocului. \n\n
+
+        Dacă, la executarea unei lovituri libere, un jucător al echipei în atac se află la mai
+        puţin de 1 m (1 yd) de „zidul” format de trei sau mai mulţi jucători ai echipei în
+        apărare, se acordă lovitură liberă indirectă. \n\n
+
+        Dacă, atunci când echipa în apărare execută o lovitură liberă în propria suprafaţă
+        de pedeapsă, în interiorul acesteia se află jucători ai echipei adverse care nu au
+        avut timp să o părăsească, arbitrul lasă jocul să continue. Dacă un adversar care
+        se află în suprafaţa de pedeapsă în momentul executării loviturii libere sau care
+        pătrunde în suprafaţa de pedeapsă înainte ca mingea să fie în joc, atinge mingea
+        sau participă la disputa pentru minge înainte ca aceasta să fie în joc, lovitura
+        liberă trebuie repetată. \n\n
+
+        Dacă, după ce mingea este în joc, executantul atinge mingea din nou înainte ca
+        aceasta să fie atinsă de un alt jucător, se acordă o lovitură liberă indirectă. Dacă
+        executantul comite o abatere prin jucarea mingii cu mâna: \n
+        \t• se acordă o lovitură liberă directă \n
+        \t• se acordă o lovitură de pedeapsă, dacă abaterea a avut loc în interiorul
+        suprafeţei de pedeapsă a echipei executantului, în afară de cazul în care
+        executantul este portarul, situaţie în care se acordă o lovitură liberă indirectă
+    </string>
+</resources>

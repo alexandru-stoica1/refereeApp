@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_5_1">Fiecare meci este condus de un arbitru care are autoritate deplină în ceea ce
+        priveşte punerea în aplicare a Legilor jocului în cadrul partidei respective.
+    </string>
+
+    <string name="law_5_2">Arbitrul va depune toate eforturile pentru luarea celor mai bune decizii, în
+        conformitate cu Legile jocului şi cu spiritul acestuia. Deciziile vor avea la bază
+        opinia arbitrului, acesta având autoritatea de a lua măsurile corespunzătoare în
+        cadrul impus de Legile jocului. \n\n
+
+        Deciziile arbitrului referitoare la aspectele legate de joc, inclusiv în ceea ce
+        priveşte marcarea sau nu a golurilor, precum şi rezultatele meciului, sunt
+        definitive. Deciziile arbitrului şi ale tuturor celorlalţi oficiali de meci trebuie
+        întotdeauna respectate. \n\n
+
+        Arbitrul nu poate reveni asupra unei decizii de reluare a jocului dacă îşi dă seama
+        că aceasta este incorectă sau în urma informaţiilor primite de la un alt oficial de
+        meci, dacă jocul a fost reluat sau arbitrul a fluierat sfârşitul primei sau celei de a
+        doua reprize (inclusiv prelungiri) şi a părăsit terenul de joc sau a oprit definitiv
+        jocul. Cu toate acestea, dacă la sfârşitul reprizei, arbitrul părăseşte terenul de
+        joc pentru a se duce în zona de analiză video pentru arbitru sau pentru a cere
+        jucătorilor să revină pe terenul de joc, aceste situaţii nu împiedică modificarea
+        unei decizii corespunzătoare unui incident care a avut loc înainte de încheierea
+        reprizei. \n\n
+
+        Cu excepţia situaţiilor prevăzute de Legea 12.3 şi de Protocolul VAR, se poate
+        aplica o sancţiune disciplinară după ce jocul a fost reluat numai dacă alt oficial
+        de meci a identificat o abatere şi a încercat să o comunice arbitrului înainte de
+        reluarea jocului; nu se va aplica modul de reluare a jocului corelat sancţiunii. \n\n
+
+        Dacă arbitrul nu mai poate conduce jocul, meciul poate continua sub
+        supravegherea celorlalţi oficiali de meci până la prima ieşire a mingii din joc.
+    </string>
+
+    <string name="law_5_3">Arbitrul: \n
+        \t• pune în aplicare Legile jocului \n
+        \t• conduce jocul, în colaborare cu ceilalţi oficiali de meci \n
+        \t• cronometrează meciul, consemnează evenimentele care au loc în timpul meciului
+        şi înaintează autorităţilor competente un raport de meci care conţine informaţii
+        cu privire la sancţiunile disciplinare şi orice alte incidente care au survenit
+        înainte, în timpul sau după meci \n
+        \t• controlează şi/sau indică reluarea jocului. \n\n
+
+        <b>Avantaj</b>\n
+        \t• Lasă jocul să continue dacă se produce o abatere, iar echipa împotriva căreia
+        s-a comis abaterea poate beneficia de avantaj, respectiv sancţionează abaterea
+        în cazul în care consideră că avantajul anticipat nu apare imediat sau în câteva
+        secunde. \n\n
+
+        <b>Sancţiuni disciplinare</b>\n
+        \t• Atunci când se produc simultan mai multe abateri, sancţionează abaterea cea mai
+        gravă din punct de vedere al sancţiunii aplicabile, reluării jocului, gravităţii fizice
+        şi impactului tactic. \n
+        \t• Dispune sancţiuni disciplinare împotriva jucătorilor care comit abateri pasibile
+        de avertisment şi eliminare. \n
+        \t• Este abilitat să ia măsuri disciplinare de la intrarea pe terenul de joc pentru
+        inspecţia de dinaintea meciului şi până la părăsirea acestuia după sfârşitul
+        meciului (inclusiv loviturile de departajare de la 11 m). Dacă, înainte de intrarea
+        pe terenul de joc la începutul meciului, un jucător comite o abatere care se
+        sancţionează cu eliminare, arbitrul este abilitat să interzică jucătorului să ia parte
+        la meci (a se vedea Legea 3.6); arbitrul va raporta orice altă abatere. \n
+        \t• Are autoritatea de a arăta cartonaşul galben sau cartonaşul roşu şi, acolo unde
+        regulamentul competiţiei permite acest lucru, de a elimina temporar un jucător,
+        de la intrarea pe terenul de joc la începutul meciului şi până la sfârşitul meciului,
+        inclusiv în pauzele dintre reprize, în prelungiri şi la loviturile de departajare de la
+        11 m. \n
+        \t• Ia măsuri împotriva oficialilor echipei care nu au un comportament responsabil
+        şi îi atenţionează sau le arată cartonaşul galben în cazul unui avertisment sau
+        cartonaşul roşu în cazul eliminării de pe terenul de joc şi din imediata apropiere
+        a acestuia, inclusiv din suprafaţa tehnică; în cazul în care persoana vinovată de
+        abatere nu poate fi identificată, va primi sancţiunea antrenorul principal prezent
+        în suprafaţa tehnică. Un oficial al echipei care face parte din personalul medical,
+        care comite o abatere pasibilă de sancţionarea cu eliminare, poate rămâne în
+        cazul în care echipa nu are alt personal medical pentru a interveni în cazul în
+        care un jucător necesită asistenţă medicală. \n
+        \t• Intervine la semnalizările celorlalţi oficiali de meci cu privire la incidente pe
+        care nu le-a văzut. \n\n
+
+        <b>Accidentări</b>\n
+        \t• Lasă jocul să continue până în momentul în care mingea iese din joc în cazul
+        în care un jucător este doar uşor accidentat. \n
+        \t• Opreşte jocul dacă un jucător este grav accidentat şi dispune transportarea
+        acestuia în afara terenului. Unui jucător accidentat nu i se poate acorda
+        asistenţă medicală pe terenul de joc, putând reintra pe teren numai după
+        ce jocul a fost reluat; în cazul în care mingea este în joc, jucătorul trebuie
+        să reintre pe teren pe la linia de margine, iar dacă mingea este afară din joc
+        poate intra pe la orice linie care delimitează suprafaţa de joc. Sunt permise
+        excepţii de la cerinţa privind părăsirea terenului de joc numai în următoarele
+        situaţii: \n
+        \t\t• Se accidentează un portar \n
+        \t\t• Un portar şi un jucător de câmp intră în coliziune şi au nevoie de îngrijiri \n
+        \t\t• Jucători ai aceleiaşi echipe intră în coliziune şi au nevoie de îngrijiri \n
+        \t\t• S-a produs o accidentare gravă \n
+        \t\t• Un jucător s-a accidentat în urma unei abateri de natură fizică pentru care
+        adversarul este avertizat sau eliminat (de exemplu, atac imprudent sau
+        fault grosolan), dacă examinarea/îngrijirile medicale se efectuează rapid \n
+        \t\t• S-a acordat o lovitură de pedeapsă, iar jucătorul accidentat este cel care o
+        va executa \n
+        \t• Se asigură că orice jucător care sângerează părăseşte terenul de joc. Jucătorul
+        respectiv poate reintra pe teren numai la primirea semnalului de la arbitru,
+        acesta din urmă trebuind să se asigure că sângerarea s-a oprit şi că nu există
+        pete de sânge pe echipament. \n
+        \t• Dacă arbitrul a permis intrarea pe teren a medicilor şi/sau brancardierilor,
+        jucătorul trebuie să părăsească terenul pe targă sau mergând. În cazul în
+        care jucătorul nu se conformează, trebuie avertizat pentru comportament
+        nesportiv. \n
+        \t• În cazul în care arbitrul a decis să avertizeze sau să elimine un jucător
+        accidentat, care trebuie să părăsească terenul pentru a primi asistenţă
+        medicală, cartonaşul trebuie să îi fie arătat înainte de a părăsi suprafaţa de
+        joc. \n
+        \t• În cazul în care jocul nu a fost oprit din alt motiv sau dacă accidentarea suferită
+        de jucător nu este cauzată de o abatere, jocul este reluat cu o minge de arbitru. \n\n
+
+        <b>Intervenţii externe</b>\n
+        \t• Întrerupe, suspendă sau opreşte definitiv jocul în urma producerii de abateri
+        sau de intervenţii externe, de exemplu: \n
+        \t\t• Instalaţia de nocturnă nu funcţionează corespunzător. \n
+        \t\t• Un obiect aruncat de un spectator loveşte un oficial de meci, un jucător sau
+        un oficial al echipei, situaţie în care poate lăsa jocul să continue sau îl poate
+        întrerupe, suspenda sau opri definitiv, în funcţie de gravitatea incidentului. \n
+        \t\t• Un spectator utilizează un fluier, influenţând jocul - jocul este oprit şi reluat cu
+        o minge de arbitru. \n
+        \t\t• O altă minge decât cea cu care se joacă, un obiect sau un animal pătrunde pe
+        terenul de joc în timpul meciului. În aceste situaţii, arbitrul trebuie: \n
+        \t\t\t\t- să oprească jocul (şi să îl reia cu o minge de arbitru) numai dacă se produce
+        o intervenţie în joc, mai puţin dacă mingea se îndrepta spre poartă, iar
+        intervenţia respectivă nu împiedică un jucător al echipei în apărare să joace
+        mingea, caz în care acordă golul dacă mingea intră în poartă (chiar şi în
+        cazul contactului cu mingea), în afară de situaţia în care intervenţia a fost
+        produsă de echipa în atac. \n
+        \t\t\t\t- să lase jocul să continue dacă nu se produce o intervenţie în joc şi să
+        dispună scoaterea mingii, obiectului sau animalului respectiv în afara
+        terenului imediat ce acest lucru este posibil. \n
+        \t\t• Nu permite persoanelor neautorizate accesul pe teren
+    </string>
+
+    <string name="law_5_4">Folosirea asistenţei video la arbitraj (VAR) este permisă numai în cazul în care
+        organizatorul meciului/competiţiei îndeplineşte toate cerinţele privind Protocolul
+        VAR şi implementarea acestuia (conform manualului VAR) şi a primit acordul scris
+        al IFAB şi FIFA. \n\n
+
+        Arbitrul poate beneficia de asistenţă video la arbitraj (VAR) numai în cazul unei
+        „erori clare şi evidente” sau al „neobservării unui incident grav” în legătură cu: \n
+        \t• validarea sau nu a unui gol \n
+        \t• acordarea sau nu a unei lovituri de pedeapsă \n
+        \t• sancţionarea directă cu cartonaş roşu (nu în urma unui al doilea avertisment) \n
+        \t• o eroare de identificare a unui jucător, în situaţia în care arbitrul avertizează sau
+        elimină un alt jucător din echipă şi nu pe cel vinovat de comiterea unei abateri. \n\n
+
+        Arbitrul asistent pentru analiză video (VAR) va ajuta arbitrul prin punerea la
+        dispoziţia acestuia a unei(-or) reluări a(le) incidentului. Decizia finală aparţine
+        arbitrului care poate hotărî doar pe baza informaţiilor primite de la arbitrul
+        asistent pentru analiză video şi/sau în urma analizei directe a reluării („analiză
+        la marginea terenului”). \n\n
+
+        În afară de cazul „neobservării unui incident grav”, arbitrul (şi, unde este cazul,
+        ceilalţi oficiali de meci de teren) trebuie să ia întotdeauna o decizie (aceasta
+        putând fi inclusiv o decizie de nesancţionare a unei posibile abateri); această
+        decizie nu poate fi modificată, cu excepţia situaţiei în care este vorba de o
+        „eroare clară şi evidentă”. \n\n
+
+        <b>Efectuarea unei analize după reluarea jocului</b>\n
+        În cazul în care jocul a fost oprit şi reluat, arbitrul poate analiza incidentul şi
+        dispune sancţiunea corespunzătoare numai în cazul unei erori de identificare
+        sau al unei abateri pasibile de eliminare legate de comportament violent,
+        scuiparea sau muşcarea unei persoane sau de gesturi extrem de agresive,
+        ofensatoare şi/sau ireverenţioase.
+    </string>
+
+    <string name="law_5_5"><b>Echipamentul obligatoriu</b>\n
+        Arbitrii trebuie să aibă următorul echipament: \n
+        \t• fluier(-e) \n
+        \t• ceas(-uri) \n
+        \t• cartonaşe roşii şi galbene \n
+        \t• carneţel (sau orice alt mijloc de consemnare a evenimentelor care au loc în
+        timpul meciului). \n\n
+
+        <b>Alte echipamente</b>\n
+        Arbitrilor li se poate permite să utilizeze: \n
+        \t• echipamente de comunicare cu alţi oficiali de meci - sistem de avertizare
+        sonor/fanioane cu sistem sonor, căşti etc. \n
+        \t• EPTS sau alt echipament de monitorizare a condiţiei fizice. \n\n
+
+        Arbitrilor şi celorlalţi oficiali de meci de teren le este interzisă purtarea de
+        bijuterii sau de alte echipamente electronice, inclusiv camere video.
+    </string>
+
+    <string name="law_5_6">
+    </string>
+
+    <string name="law_5_7">Un arbitru sau un alt oficial de meci nu poate fi făcut responsabil pentru: \n
+        \t• niciun fel de accidentări suferite de un jucător, oficial sau spectator \n
+        \t• niciun fel de pagube materiale \n
+        \t• orice alte pierderi suferite de o persoană, club, companie, asociaţie sau
+        alt organism, imputabile sau potenţial imputabile unei decizii luate în
+        conformitate cu Legile jocului sau cu respectarea procedurilor normale privind
+        organizarea, disputarea şi conducerea unui meci. \n\n
+
+        Astfel de decizii pot fi: \n
+        \t• permiterea sau interzicerea desfăşurării unui meci din motive ce ţin de starea
+        terenului sau a zonelor adiacente sau de condiţiile meteorologice \n
+        \t• oprirea definitivă a unui meci, indiferent de motiv \n
+        \t• decizii referitoare la conformitatea echipamentului de pe teren sau a mingii
+        utilizate în cadrul partidei \n
+        \t• oprirea sau nu a jocului în urma unei intervenţii din partea spectatorilor sau a
+        oricărei probleme apărute în zona rezervată spectatorilor \n
+        \t• oprirea sau nu a jocului pentru a permite scoaterea unui jucător accidentat de
+        pe terenul de joc pentru a i se acorda asistenţă medicală \n
+        \t• dispunerea scoaterii unui jucător accidentat de pe terenul de joc pentru a i se
+        acorda asistenţă medicală \n
+        \t• permiterea sau nepermiterea purtării anumitor articole de îmbrăcăminte sau
+        echipament de un jucător \n
+        \t• în măsura în care este de competenţa sa, permiterea sau nepermiterea
+        prezenţei unor persoane (inclusiv oficiali ai echipei sau ai stadionului,
+        personal de ordine, fotografi sau alţi reprezentanţi ai mass-media) în
+        apropierea terenului de joc \n
+        \t• orice altă decizie luată în conformitate cu Legile jocului sau cu obligaţiile sale
+        decurgând din prevederile normelor şi regulamentelor FIFA, confederaţiilor,
+        asociaţiilor naţionale sau competiţiilor după care se desfăşoară jocul.
+    </string>
+</resources>
