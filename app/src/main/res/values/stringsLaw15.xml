@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_15_1">Aruncarea de la margine se acordă echipei adverse jucătorului care a atins
+        ultimul mingea, când mingea depăşeşte în întregime linia de margine, pe sol
+        sau în aer. \n\n
+
+        Nu se poate înscrie gol direct dintr-o aruncare de la margine: \n
+        \t• Dacă mingea intră în poarta adversă - se acordă lovitură de poartă.\n
+        \t• Dacă mingea intră în poarta echipei care aruncă de la margine - se acordă
+        lovitură de colţ.
+    </string>
+
+    <string name="law_15_2">La momentul aruncării mingii de la margine, executantul trebuie: \n
+        \t• să stea în picioare cu faţa către terenul de joc \n
+        \t• să aibă, cel puţin parţial, ambele picioare pe linia de margine sau în afara
+        acesteia \n
+        \t• să arunce mingea cu ambele mâini din spate şi pe deasupra capului din locul
+        în care mingea a ieşit de pe terenul de joc. \n\n
+
+        Toţi adversarii trebuie să fie poziţionaţi la o distanţă de minimum 2 m (2 yds)
+        de locul de pe linia de margine de unde urmează să se execute aruncarea de la
+        margine. \n\n
+
+        Mingea este în joc în momentul în care aceasta intră pe teren. Dacă mingea
+        atinge solul înainte de a intra pe teren, aruncarea de la margine este repetată
+        de aceeaşi echipă, din acelaşi loc. Dacă aruncarea de la margine nu este
+        executată corect, va fi repetată de echipa adversă. \n\n
+
+        Dacă un jucător care execută corect o aruncare de la margine trimite în mod
+        deliberat mingea într-un adversar cu intenţia de a rejuca mingea, dar nu face
+        acest lucru într-un mod neglijent sau imprudent sau folosind forţă excesivă,
+        arbitrul lasă jocul să continue. \n\n
+
+        Executantul aruncării de la margine nu are voie să atingă mingea din nou înainte ca
+        aceasta să fie atinsă de un alt jucător.
+    </string>
+
+    <string name="law_15_3">Dacă, după ce mingea este în joc, executantul atinge mingea din nou înainte ca
+        aceasta să fie atinsă de un alt jucător, se acordă o lovitură liberă indirectă; dacă
+        executantul comite o abatere prin jucarea mingii cu mâna: \n
+        \t• se acordă o lovitură liberă directă \n
+        \t• se acordă o lovitură de pedeapsă dacă abaterea s-a produs în interiorul suprafeţei
+        de pedeapsă a echipei executantului, în afară de cazul în care mingea a fost jucată
+        cu mâna de portarul echipei în apărare, situaţie în care se acordă o lovitură liberă
+        indirectă. \n\n
+
+        Un adversar care, în mod incorect, distrage sau obstrucţionează executantul
+        loviturii de la margine (inclusiv prin poziţionarea la o distanţă mai mică de 2 m
+        (2 yds) de locul aruncării de la margine), va fi avertizat pentru comportament
+        nesportiv, iar dacă aruncarea de la margine a fost executată, se va acorda lovitură
+        liberă indirectă. \n\n
+
+        Pentru orice altă abatere de la această Lege, aruncarea de la margine va fi executată
+        de un jucător al echipei adverse.
+    </string>
+</resources>

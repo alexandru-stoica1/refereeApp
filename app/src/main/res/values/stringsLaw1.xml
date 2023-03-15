@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_1_1">Terenul de joc trebuie să aibă o suprafaţă în totalitate naturală sau,
+        dacă regulamentul competiţiei permite acest lucru, o suprafaţă în totalitate
+        artificială, cu excepţia cazului în care regulamentul competiţiei permite o
+        combinaţie integrată de materiale artificiale şi naturale (sistem hibrid).\n\n
+
+        Suprafeţele artificiale trebuie să aibă culoarea verde.\n\n
+
+        În cazul în care se folosesc suprafeţe artificiale pentru meciuri disputate
+        între echipele reprezentative ale unor asociaţii naţionale afiliate la FIFA sau
+        pentru meciuri din cadrul competiţiilor inter-club internaţionale, suprafaţa
+        de joc trebuie să îndeplinească cerinţele Programului de calitate FIFA privind
+        gazonul artificial, cu excepţia cazului în care IFAB acordă o derogare specială.
+    </string>
+
+    <string name="law_1_2">Terenul de joc trebuie să aibă formă dreptunghiulară şi să fie marcat cu
+        linii continue care să nu fie periculoase; pentru realizarea marcajelor de
+        pe terenurile naturale se pot folosi materiale din care sunt confecţionate
+        suprafeţele de joc artificiale, cu condiţia ca acestea să nu fie periculoase. Liniile
+        de marcaj fac parte integrantă din suprafeţele pe care le delimitează. \n\n
+
+        Pe terenul de joc vor fi marcate numai liniile prevăzute în Legea 1. Acolo
+        unde se utilizează suprafeţe artificiale, este permis să se traseze şi alte linii,
+        cu condiţia ca acestea să aibă altă culoare faţă de marcajele de fotbal şi să se
+        distingă clar de acestea. \n\n
+
+        Cele două linii de demarcaţie mai lungi reprezintă liniile de margine. Cele două
+        linii mai scurte reprezintă liniile de poartă. \n\n
+
+        Terenul de joc este împărţit în două jumătăţi de o linie mediană care uneşte
+        mijlocul celor două linii de margine. \n\n
+
+        Punctul de la centrul terenului se află în mijlocul liniei mediane. În jurul acestuia
+        este trasat un cerc cu o rază de 9,15 m (10 yds).
+        Se pot efectua marcaje în afara terenului de joc, la 9,15 m (10 yds) de la arcul
+        de cerc de la colţul terenului, perpendicular faţă de liniile de poartă şi liniile de
+        margine. \n\n
+
+        Toate liniile trebuie să aibă aceeaşi lăţime, aceasta nedepăşind 12 cm (5 ins). Liniile
+        de poartă trebuie să aibă aceeaşi lăţime ca stâlpii porţii şi bara transversală. \n\n
+
+        Un jucător care trasează marcaje neautorizate pe teren trebuie avertizat pentru
+        comportament nesportiv. În cazul în care arbitrul observă acest lucru în timpul
+        meciului, jucătorul este avertizat la prima ieşire a mingii din joc.
+    </string>
+
+    <string name="law_1_3">Linia de margine trebuie să fie mai lungă decât linia de poartă. \n\n
+
+        • Lungime (linia de margine): \n
+        \t - minimum 90 m (100 yds) \n
+        \t - minimum 45 m (50 yds) \n\n
+
+        • Lungime (linia de poartă): \n
+        \t - maximum 120 m (130 yds) \n
+        \t - maximum 90 m (100 yds)
+    </string>
+
+    <string name="law_1_4">• Lungime (linia de margine): \n
+        \t - minimum 100 m (110 yds) \n
+        \t - minimum 110 m (120 yds) \n\n
+
+        • Lungime (linia de poartă): \n
+        \t - maximum 64 m (70 yds) \n
+        \t - maximum 75 m (80 yds) \n\n
+
+        Organizatorii competiţiilor pot stabili lungimea liniilor de poartă şi a liniilor de
+        margine în limitele dimensiunilor de mai sus.
+    </string>
+
+    <string name="law_1_5">Se trasează două linii perpendiculare pe linia de poartă la 5,5 m (6 yds) de la
+        partea interioară a fiecărui stâlp al porţii. Liniile se prelungesc în interiorul
+        terenului de joc pe o distanţă de 5,5 m (6 yds), apoi se unesc cu o linie paralelă cu
+        linia de poartă. Suprafaţa delimitată de aceste linii şi linia de poartă reprezintă
+        suprafaţa de poartă.
+    </string>
+
+    <string name="law_1_6">Se trasează două linii perpendiculare pe linia de poartă la 16,5 m (18 yds) de
+        la partea interioară a fiecărui stâlp al porţii. Liniile se prelungesc în interiorul
+        terenului de joc pe o distanţă de 16,5 m (18 yds), apoi se unesc cu o linie paralelă
+        cu linia de poartă. Suprafaţa delimitată de aceste linii şi linia de poartă reprezintă
+        suprafaţa de pedeapsă. \n\n
+
+        În interiorul fiecărei suprafeţe de pedeapsă, se marchează punctul de pedeapsă la
+        11 m (12 yds) faţă de mijlocul liniei dintre stâlpii porţii. \n\n
+
+        Din fiecare punct de pedeapsă se trasează în afara suprafeţei de pedeapsă un arc
+        de cerc cu raza de 9,15 m (10 yds).
+    </string>
+
+    <string name="law_1_7">Suprafaţa de colţ este delimitată de un sfert de cerc cu raza de 1 m (1 yd) trasat în
+        interiorul terenului de joc de la fiecare steag de colţ
+    </string>
+
+    <string name="law_1_8">La fiecare colţ al terenului trebuie amplasat un steag. Suportul steagului trebuie
+        să aibă o înălţime de minimum 1,5 m (5 ft) şi să nu aibă vârful ascuţit.\n\n
+
+        Pot fi amplasate steaguri şi la fiecare capăt al liniei mediane, în afara terenului de
+        joc, la o distanţă de minimum 1 m (1 yd) de linia de margine.
+    </string>
+
+    <string name="law_1_9">Suprafaţa tehnică este, la meciurile jucate pe stadioane unde există o zonă
+        prevăzută cu scaune pentru oficialii echipelor, jucătorii înlocuitori şi jucătorii
+        înlocuiţi, o suprafaţă cu următoarele caracteristici: \n
+        \t• Suprafaţa tehnică trebuie să se prelungească cu numai 1 m (1 yd) în afara
+        fiecărei laturi a zonei prevăzute cu scaune şi să se afle la o distanţă de
+        maximum 1 m (1 yd) de linia de margine.\n
+        \t• Suprafaţa trebuie delimitată cu marcaje.\n
+        \t• Numărul persoanelor cărora le este permis să ocupe suprafaţa tehnică este
+        stabilit prin regulamentul competiţiei.\n\n
+
+        Persoanele care pot ocupa suprafaţa tehnică:\n
+        \t• sunt identificate înainte de începerea meciului, în conformitate cu
+        regulamentul competiţiei \n
+        \t• trebuie să se comporte într-un mod responsabil \n
+        \t• trebuie să rămână în interiorul suprafeţei tehnice, cu excepţia unor situaţii
+        speciale, de exemplu, fizioterapeutul/medicul poate intra pe terenul de joc,
+        cu permisiunea arbitrului, pentru a acorda asistenţă medicală unui jucător
+        accidentat.
+    </string>
+
+    <string name="law_1_10">Poarta trebuie amplasată în centrul fiecăreia din liniile de poartă.
+        Poarta este formată din doi stâlpi verticali aflaţi la distanţă egală de steagurile de
+        colţ, aceştia fiind uniţi în partea superioară de o bară orizontală. Stâlpii şi bara
+        transversală trebuie să fie dintr-un material aprobat şi să nu prezinte pericol.
+        Stâlpii porții și bara transversală a ambelor porți trebuie să aibă aceeași formă,
+        adică pătrată, rectangulară, rotundă sau eliptică sau o combinație a acestora. \n\n
+
+        Se recomandă ca toate porțile utilizate într-o competiție oficială organizată
+        sub egida FIFA sau a confederațiilor să îndeplinească cerințele Programului de
+        calitate FIFA pentru porțile de fotbal. \n\n
+
+        Distanţa dintre interiorul stâlpilor este de 7,32 m (8 yds), iar distanţa dintre
+        partea inferioară a barei transversale şi sol este de 2,44 m (8 ft). \n\n
+
+        Stâlpii porţii trebuie poziţionaţi faţă de linia porţii în conformitate cu imaginile
+        de mai jos. \n\n
+
+        Stâlpii porţii şi bara transversală trebuie să fie de culoare albă şi să aibă aceeaşi
+        lăţime şi grosime, care nu trebuie să depăşească 12 cm (5 ins). \n\n
+
+        În cazul în care bara transversală se deplasează sau se rupe, jocul se întrerupe
+        până la repararea acesteia sau repunerea în poziţia corectă. Jocul se reia cu
+        o minge de arbitru. În cazul în care nu poate fi reparată, meciul trebuie oprit
+        definitiv. Bara transversală nu poate fi înlocuită cu o funie sau orice alt material
+        flexibil sau periculos. \n\n
+
+        Porţile pot fi prevăzute cu plase fixate de porţi şi de sol, în spatele porţii; acestea
+        trebuie ancorate corespunzător şi nu trebuie să deranjeze portarul. \n\n
+
+        <b>Măsuri de siguranţă</b>\n
+        Porţile (inclusiv porţile mobile) trebuie ancorate corespunzător pe sol
+    </string>
+
+    <string name="law_1_11">Se pot folosi sisteme GLT pentru a verifica dacă un gol a fost înscris sau nu, în
+        scopul sprijinirii deciziei arbitrului. \n\n
+
+        Utilizarea de sisteme GLT trebuie prevăzută în regulamentul competiţiei. \n\n
+
+        <b>Principiile GLT</b>\n
+        Utilizarea tehnologiei GLT se limitează la linia porţii, fiind utilizată în exclusivitate
+        pentru a stabili dacă un gol a fost înscris sau nu. \n\n
+
+        Indicarea înscrierii unui gol trebuie confirmată imediat, în mod automat, de
+        sistemul GLT, în interval de o secundă, în exclusivitate către oficialii de meci (prin
+        intermediul ceasului arbitrului, prin vibrații şi semnal vizual); acesta poate de
+        asemenea să fie trimis către camera de analiză video (VOR). \n\n
+
+        <b>Cerinţe şi specificaţii privind GLT</b>\n
+        În cazul în care tehnologia GLT este utilizată în competiții, organizatorii
+        competiţiilor trebuie să se asigure că sistemul (inclusiv orice modificări posibile
+        permise ale cadrului porții sau a tehnologiei în minge) îndeplinește cerințele
+        Programului de calitate FIFA pentru GLT. \n\n
+
+        În cazul utilizării unui sistem GLT, arbitrul trebuie să testeze funcţionarea
+        tehnologiei înainte de meci, conform manualului de testare. În cazul în care
+        tehnologia nu funcționează în conformitate cu cerințele din manualul de testare,
+        arbitrul nu trebuie să utilizeze sistemul GLT, având obligația de a aduce acest lucru
+        la cunoștința autorităților competente.
+    </string>
+
+    <string name="law_1_12">Nu este permisă nicio formă de publicitate comercială, reală sau virtuală, pe terenul
+        de joc, pe sol în zona delimitată de plasele porţilor, în suprafaţa tehnică, în zona de
+        analiză video pentru arbitru sau în zona de până la 1 m (1 yd) faţă de liniile care
+        delimitează terenul, din momentul intrării echipelor pe terenul de joc şi până în
+        momentul părăsirii acestuia la pauza dintre reprize, respectiv din momentul în
+        care echipele reintră pe terenul de joc şi până la sfârşitul meciului. Nu este permisă
+        publicitatea sau fixarea de echipamente fără legătură cu acestea (camere video,
+        microfoane etc.) pe porţi, plase, steaguri sau suporturile acestora. \n\n
+
+        De asemenea, panourile publicitare trebuie instalate la minimum: \n
+        \t• 1 m (1 yd) de liniile de margine \n
+        \t• aceeaşi distanţă faţă de linia de poartă ca şi adâncimea plasei porţii \n
+        \t• 1 m (1 yd) faţă de plasa porţii.
+    </string>
+
+    <string name="law_1_13">În timpul jocului, este interzisă reproducerea, reală sau virtuală, a siglelor sau
+        emblemelor reprezentative ale FIFA, confederaţiilor, asociaţiilor naţionale de
+        fotbal, competiţiilor, cluburilor sau altor organisme, pe terenul de joc, pe plasele
+        porţilor şi în zonele delimitate de acestea, pe porţi şi pe suporturile steagurilor.
+        Acestea sunt permise pe steagurile propriu-zise.
+    </string>
+
+    <string name="law_1_14">La meciurile unde se utilizează asistenţa video la arbitraj (VAR), trebuie să existe
+        un studio de analiză video şi cel puţin o zonă de analiză video pentru arbitru. \n\n
+
+        <b>Studioul de analiză video</b>\n
+        Studioul de analiză video este o cameră unde îşi desfăşoară activitatea arbitrul
+        asistent pentru analiză video (VAR), adjunctul VAR (AVAR) şi tehnicianul video
+        responsabil de reluări; acesta trebuie să se afle pe stadion/în apropierea acestuia
+        sau într-un loc mai îndepărtat. În timpul meciului, accesul în studioul de analiză
+        video şi comunicarea cu arbitrul pentru analiză video, adjunctul acestuia,
+        tehnicianul video responsabil cu reluările sunt permise numai persoanelor
+        autorizate. \n\n
+
+        Un jucător, jucător înlocuitor, jucător înlocuit sau oficial al unei echipe care intră
+        în studioul de analiză video va fi sancţionat cu eliminare. \n\n
+
+        <b>Zona de analiză video pentru arbitru</b>\n
+        La meciurile unde se utilizează asistenţa video la arbitraj (VAR), trebuie să existe
+        cel puţin o zonă de analiză video pentru arbitru unde arbitrul să efectueze o
+        „analiză la marginea terenului”. Aceasta trebuie să fie: \n
+        \t• într-un loc vizibil în afara terenului de joc \n
+        \t• clar delimitată. \n\n
+        Un jucător, jucător înlocuitor, jucător înlocuit sau oficial al unei echipe care intră
+        în zona de analiză video pentru arbitru va fi sancţionat cu avertisment.
+    </string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_6_1">La meciuri pot fi delegaţi, de asemenea, alţi oficiali de meci (doi arbitri asistenţi,
+        al patrulea oficial, doi arbitri asistenţi suplimentari, un arbitru asistent de
+        rezervă, un arbitru asistent pentru analiză video (VAR) şi cel puţin un adjunct
+        VAR (AVAR)). Aceştia vor ajuta arbitrul să conducă meciul în conformitate cu
+        Legile Jocului, dar decizia finală va aparţine întotdeauna arbitrului. \n\n
+
+        Arbitrul, arbitrii asistenţi, al patrulea oficial, arbitrii asistenţi suplimentari şi
+        arbitrul asistent de rezervă sunt oficialii de meci de teren. \n\n
+
+        Arbitrul asistent pentru analiză video (VAR) și adjunctul său (AVAR) sunt
+        oficialii de meci pentru analiză video, rolul lor fiind acela de a ajuta arbitrul în
+        conformitate cu Legile Jocului și Protocolul VAR. \n\n
+
+        Oficialii de meci îşi desfăşoară activitatea sub coordonarea arbitrului. În cazul
+        în care intervin în mod nejustificat sau au un comportament neadecvat, arbitrul
+        va renunţa la aceştia şi va înainta un raport în acest sens către autorităţile
+        competente. \n\n
+
+        Cu excepţia arbitrului asistent de rezervă, oficialii de meci de teren ajută
+        arbitrul cu privire la abaterile asupra cărora au un unghi vizual mai bun decât
+        arbitrul, având obligaţia de a înainta un raport către autorităţile competente în
+        legătură cu situaţiile grave de comportament nesportiv sau alte incidente care
+        s-au produs în afara câmpului vizual al arbitrului şi al celorlalţi oficiali de meci.
+        De asemenea, trebuie să anunţe arbitrul şi ceilalţi oficiali de meci cu privire la
+        raportul întocmit. \n\n
+
+        Oficialii de meci de teren ajută arbitrul la inspectarea terenului de joc, mingilor
+        şi echipamentului jucătorilor (inclusiv pentru a verifica dacă problemele au
+        fost rezolvate), precum şi la cronometrare şi la ţinerea evidenţei golurilor,
+        incidentelor de comportament nesportiv etc. \n\n
+
+        Regulamentul competiţiei trebuie să prevadă în mod clar cine înlocuieşte un
+        oficial de meci care nu-şi poate începe sau continua exercitarea atribuţiilor
+        şi schimbările aferente. Regulamentul trebuie să specifice în mod clar cine
+        preia atribuţiile arbitrului, dintre al patrulea oficial, arbitrul asistent cel mai
+        experimentat şi arbitrul asistent suplimentar cel mai experimentat, în cazul în
+        care arbitrul nu-şi poate începe sau continua exercitarea atribuţiilor.
+    </string>
+
+    <string name="law_6_2">Aceştia au sarcina de a semnaliza: \n
+        \t• când mingea iese în întregime de pe terenul de joc şi care echipă are dreptul la
+        o lovitură de colţ, lovitură de poartă sau aruncare de la margine \n
+        \t• când un jucător aflat în poziţie de ofsaid poate fi sancţionat \n
+        \t• când se solicită o înlocuire \n
+        \t• la loviturile de pedeapsă, dacă portarul părăseşte linia de poartă înainte
+        ca mingea să fie lovită şi dacă mingea depăşeşte linia de poartă; dacă sunt
+        delegaţi arbitri asistenţi suplimentari, arbitrul asistent se poziţionează în
+        dreptul punctului de pedeapsă. \n\n
+
+        Arbitrul asistent are, de asemenea, responsabilitatea de a urmări procedura de
+        înlocuire. \n\n
+
+        Arbitrul asistent poate intra pe terenul de joc pentru a se asigura că distanţa de
+        9,15 m (10 yds) este respectată.
+    </string>
+
+    <string name="law_6_3">Printre responsabilităţile celui de-al patrulea oficial se numără: \n
+        \t• urmărirea procedurii de înlocuire \n
+        \t• verificarea echipamentului jucătorilor titulari/jucătorilor înlocuitori \n
+        \t• reintrarea unui jucător pe terenul de joc în urma semnalului/aprobării
+        arbitrului \n
+        \t• controlul mingilor de rezervă \n
+        \t• indicarea duratei minime a prelungirilor acordate de arbitru la sfârşitul
+        fiecărei reprize (inclusiv în prelungiri) \n
+        \t• informarea arbitrului cu privire la comportamentul iresponsabil al unei
+        persoane din suprafaţa tehnică. \n
+    </string>
+
+    <string name="law_6_4">Arbitri asistenţi suplimentari pot semnaliza: \n
+        \t• când mingea depăşeşte în întregime linia de poartă, inclusiv atunci când se
+        înscrie un gol \n
+        \t• care echipă are dreptul la o lovitură de colţ sau lovitură de poartă \n
+        \t• la loviturile de pedeapsă, dacă portarul părăseşte linia de poartă înainte ca
+        mingea să fie lovită şi dacă mingea depăşeşte linia de poartă.
+    </string>
+
+    <string name="law_6_5">Singura sarcină a arbitrului asistent de rezervă este de a înlocui un arbitru
+        asistent sau pe cel de-al patrulea oficial dacă unul dintre aceştia nu-şi poate
+        continua exercitarea atribuţiilor.
+    </string>
+
+
+    <string name="law_6_6">Arbitrul asistent pentru analiză video (VAR) este un oficial de meci care poate
+        ajuta arbitrul în luarea unei decizii pe baza reluărilor video, dar numai în cazul
+        unei „erori clare şi evidente” sau „neobservării unui incident grav” în legătură
+        cu validarea sau nu a unui gol, acordarea sau nu a unei lovituri de pedeapsă,
+        sancţionarea directă cu cartonaş roşu (nu în urma unui al doilea avertisment),
+        respectiv în cazul unei erori de identificare a unui jucător, în situaţia în care
+        arbitrul avertizează sau elimină un alt jucător din echipă şi nu pe cel vinovat de
+        comiterea unei abateri. \n\n
+
+        Adjunctul arbitrului pentru analiză video (AVAR) este un oficial de meci care
+        ajută arbitrul asistent pentru analiză video (VAR) în principal prin: \n
+        \t• urmărirea transmisiunii TV, când VAR este ocupat cu efectuarea unei verificări
+        sau analize \n
+        \t• ţinerea unei evidenţe a incidentelor legate de asistenţa video la arbitraj,
+        precum şi a problemelor tehnice şi de comunicare \n
+        \t• facilitarea comunicării dintre arbitrul asistent pentru analiză video (VAR) şi
+        arbitrul principal, în special prin comunicarea directă cu arbitrul principal
+        în cazul în care VAR efectuează o verificare sau o analiză; de exemplu, anunţă
+        arbitrul să oprească jocul sau să întârzie reluarea acestuia etc. \n
+        \t• contorizarea timpului care se pierde ca urmare a opririi jocului pentru
+        efectuarea unei verificări sau unei analize \n
+        \t• transmiterea informaţiilor privind deciziile luate în cadrul asistenţei video la
+        arbitraj către factorii implicaţi.
+    </string>
+
+    <string name="law_6_7">
+    </string>
+
+    <string name="law_6_8">
+    </string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_7_1">Un meci cuprinde două reprize egale de câte 45 de minute, durata meciului
+        putând fi redusă numai dacă arbitrul şi cele două echipe convin astfel înainte
+        de începutul meciului şi dacă acest lucru este în conformitate cu regulamentul
+        competiţiei.
+    </string>
+
+    <string name="law_7_2">Jucătorii au dreptul la o pauză de maximum 15 minute între cele două reprize;
+        între reprizele de prelungiri este permisă o scurtă pauză (de maximum un
+        minut) în timpul căreia jucătorii se pot hidrata. Regulamentul competiţiei trebuie
+        să prevadă durata pauzei dintre reprize, aceasta putând fi modificată numai cu
+        permisiunea arbitrului.
+    </string>
+
+    <string name="law_7_3">Arbitrul acordă prelungiri la sfârșitul fiecărei reprize pentru timpul de joc
+        pierdut în repriza respectivă pentru: \n
+        \t• înlocuiri \n
+        \t• examinarea şi/sau scoaterea de pe terenul de joc a jucătorilor accidentaţi \n
+        \t• pierderea intenţionată de timp \n
+        \t• sancţiuni disciplinare \n
+        \t• oprirea jocului din motive de natură medicală permisă de regulamentul
+        competiţiei, de exemplu, pentru pauze de „hidratare” (maximum un minut) şi
+        pauze de „răcorire” (între 90 de secunde şi 3 minute) \n
+        \t• întârzierea reluării jocului ca urmare a verificărilor şi analizelor efectuate în
+        cadrul asistenţei video la arbitraj \n
+        \t• orice alte cauze, inclusiv întârzierile semnificative în reluarea jocului (de
+        exemplu, manifestările de bucurie la marcarea unui gol). \n\n
+
+        Cel de-al patrulea oficial indică durata minimă a prelungirilor acordate de arbitru
+        după scurgerea ultimului minut al fiecărei reprize. Durata prelungirilor poate fi
+        mărită de arbitru, dar nu scurtată. \n\n
+
+        Arbitrul nu trebuie să compenseze erorile de cronometrare din prima repriză prin
+        modificarea duratei celei de-a doua reprize.
+    </string>
+
+    <string name="law_7_4">În cazul în care trebuie executată sau repetată o lovitură de pedeapsă, repriza
+        respectivă este prelungită pentru a permite executarea acesteia.
+    </string>
+
+    <string name="law_7_5">Un meci oprit definitiv va fi rejucat în afară de cazul în care regulamentul
+        competiţiei sau organizatorii acesteia dispun altfel.
+    </string>
+</resources>

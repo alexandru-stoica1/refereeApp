@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_17_1">Lovitura de colţ (corner) se acordă când mingea depăşeşte în întregime linia
+        de poartă, pe sol sau în aer, fără să se marcheze gol, iar ultimul jucător care o
+        atinge este un jucător al echipei în apărare. \n\n
+
+        Dintr-o lovitură de colţ, se poate înscrie direct gol, dar numai împotriva echipei
+        adverse; dacă mingea intră direct în poarta echipei executantului, se acordă
+        lovitură de colţ în favoarea echipei adverse.
+    </string>
+
+    <string name="law_17_2">\t• Mingea trebuie aşezată în suprafaţa de colţ cea mai apropiată de locul în care
+        aceasta a depăşit linia de poartă. \n
+        \t• Mingea trebuie să fie statică, fiind lovită cu piciorul de un jucător al echipei în
+        atac. \n
+        \t• Mingea este în joc în momentul în care este lovită şi se mişcă în mod clar; nu
+        este nevoie să iasă din suprafaţa de colţ. \n
+        \t• Steagul de la colţul terenului nu trebuie îndepărtat. \n
+        \t• Jucătorii echipei adverse trebuie să rămână la o distanţă de minimum 9,15 m
+        (10 yds) de arcul de colţ înainte ca mingea să fie în joc.
+    </string>
+
+    <string name="law_17_3">Dacă, după ce mingea este în joc, executantul atinge mingea din nou înainte ca
+        aceasta să fie atinsă de un alt jucător, se acordă o lovitură liberă indirectă; dacă
+        executantul comite o abatere prin jucarea mingii cu mâna: \n
+        \t• se acordă o lovitură liberă directă \n
+        \t• se acordă o lovitură de pedeapsă dacă abaterea a avut loc în interiorul
+        suprafeţei de pedeapsă a echipei executantului, în afară de cazul în care
+        executantul este portarul, situaţie în care se acordă o lovitură liberă
+        indirectă. \n\n
+
+        Dacă un jucător care execută corect o lovitură de colţ trimite în mod deliberat
+        mingea într-un adversar cu intenţia de a rejuca mingea, dar nu face acest lucru
+        într-un mod neglijent sau imprudent sau folosind forţă excesivă, arbitrul lasă jocul
+        să continue. \n\n
+
+        Pentru orice altă abatere de la această Lege, se repetă lovitura de colţ.
+    </string>
+</resources>

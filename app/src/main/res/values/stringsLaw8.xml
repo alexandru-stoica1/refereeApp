@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="law_8_1">Lovitura de începere este procedeul de începere a ambelor reprize ale meciului,
+        a ambelor reprize de prelungiri, precum şi de reluare a jocului după înscrierea
+        unui gol. Lovitura liberă (directă sau indirectă), lovitura de pedeapsă, aruncarea
+        de la margine, lovitura de poartă şi lovitura de colţ reprezintă alte moduri de
+        reluare a jocului (a se vedea Legile 13-17). Mingea de arbitru se utilizează pentru
+        reluarea jocului atunci când arbitrul opreşte jocul, iar Legile jocului nu prevăd
+        reluarea acestuia într-unul din modurile enumerate mai sus. \n\n
+
+        În cazul în care se produce o abatere când mingea nu este în joc, acest lucru nu
+        modifică modul în care este reluat jocul.
+
+    </string>
+
+    <string name="law_8_2"><b>Procedura</b>\n
+        \t• arbitrul efectuează tragerea la sorţi prin aruncarea unei monede, iar echipa
+        care câştigă tragerea la sorţi prin aruncarea unei monede decide fie poarta la
+        care va ataca în prima repriză, fie executarea loviturii de începere. \n
+        \t• În funcţie de cele de mai sus, echipei adverse îi revine fie lovitura de începere,
+        fie decizia privind alegerea porţii la care va ataca în prima repriză. \n
+        \t• Echipei care decide la care poartă atacă în prima repriză îi revine lovitura de
+        începere în a doua repriză. \n
+        \t• În a doua repriză, echipele schimbă terenul şi atacă la poarta opusă comparativ
+        cu prima repriză. \n
+        \t• După marcarea unui gol de una din echipe, lovitura de începere revine echipei
+        adverse. \n\n
+
+        <b>La toate loviturile de începere:</b>\n
+        \t• Toţi jucătorii, cu excepţia celui care execută lovitura de începere, trebuie să se
+        afle în propria jumătate de teren. \n
+        \t• Adversarii echipei care execută lovitura de începere trebuie să se afle la o
+        distanţă de minimum 9,15 m (10 yds) de minge până când aceasta este în joc. \n
+        \t• Mingea trebuie să fie poziţionată pe punctul de la centrul terenului şi să fie
+        statică. \n
+        \t• Arbitrul dă semnalul pentru lovitura de începere. \n
+        \t• Mingea este în joc în momentul în care este lovită şi se mişcă în mod clar. \n
+        \t• Poate fi înscris un gol împotriva echipei adverse direct din lovitura de începere;
+        dacă mingea intră direct în poarta executantului loviturii, echipei adverse i se
+        acordă lovitură de colţ. \n\n
+
+        <b>Abateri şi sancţiuni</b>\n
+        Dacă jucătorul care execută lovitura de începere atinge mingea din nou înainte
+        ca aceasta să fie atinsă de un alt jucător, se acordă lovitură liberă indirectă sau, în
+        cazul unei abateri prin jucarea mingii cu mâna, lovitură liberă directă. \n\n
+
+        În cazul unei alte abateri de la procedura privind executarea loviturii de începere,
+        se repetă lovitura de începere.
+    </string>
+
+    <string name="law_8_3"><b>Procedura</b>\n
+        \t• Mingea de arbitru se acordă portarului echipei în apărare în suprafaţa de
+        pedeapsă a acesteia dacă, în momentul în care jocul a fost oprit: \n
+        \t• mingea se afla în suprafaţa de pedeapsă sau \n
+        \t• mingea a fost atinsă ultima dată în suprafaţa de pedeapsă. \n
+        \t• În orice alte cazuri, arbitrul acordă mingea de arbitru unui jucător din echipa
+        care a atins ultima dată mingea, în locul unde a fost atinsă ultima dată de un
+        jucător, o persoană străină/factor extern sau, aşa cum prevede Legea 9.1, de un
+        oficial de meci. \n
+        \t• Toţi ceilalţi jucători (din ambele echipe) trebuie să rămână la minimum 4 m (4,5
+        yds) de minge până când aceasta este în joc. \n\n
+
+        Mingea este în joc în momentul în care atinge solul. \n\n
+
+        <b>Abateri şi sancţiuni</b>\n
+        Mingea de arbitru se repetă dacă: \n
+        \t• atinge un jucător înainte de a atinge solul \n
+        \t• iese de pe terenul de joc după ce atinge solul, fără să fi fost atinsă de un jucător. \n\n
+
+        În cazul în care o minge de arbitru intră în poartă fără să fi atins cel puţin doi
+        jucători, jocul este reluat prin: \n
+        \t• lovitură de poartă dacă intră în poarta echipei adverse \n
+        \t• lovitură de colţ dacă intră în poarta echipei proprii. \n
+    </string>
+</resources>
