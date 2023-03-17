@@ -27,18 +27,6 @@
 
         <Button
             style="@style/buttons"
-            android:text="@string/roaf"
-            android:id="@+id/roafBtnHomePage"/>
-
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_weight="0.2">
-
-        <Button
-            style="@style/buttons"
             android:text="@string/tests"
             android:id="@+id/theoreticalTestsBtnHomePage"/>
 

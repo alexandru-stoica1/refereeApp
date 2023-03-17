@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set3_1_q">1. </string>
+    <string name="set3_1_a1">A.	</string>
+    <string name="set3_1_a2">B.	</string>
+    <string name="set3_1_a3">C.	</string>
+    <string name="set3_1_a4">D.	L</string>
+
+    <string name="set3_2_q">2. </string>
+    <string name="set3_2_a1">A. </string>
+    <string name="set3_2_a2">B. </string>
+    <string name="set3_2_a3">C. </string>
+    <string name="set3_2_a4">D. </string>
+
+    <string name="set3_3_q">3. </string>
+    <string name="set3_3_a1">A. </string>
+    <string name="set3_3_a2">B. </string>
+    <string name="set3_3_a3">C. </string>
+    <string name="set3_3_a4">D. </string>
+
+    <string name="set3_4_q">4. </string>
+    <string name="set3_4_a1">A. </string>
+    <string name="set3_4_a2">B. </string>
+    <string name="set3_4_a3">C. </string>
+    <string name="set3_4_a4">D. </string>
+
+    <string name="set3_5_q">5. </string>
+    <string name="set3_5_a1">A.	</string>
+    <string name="set3_5_a2">B.	</string>
+    <string name="set3_5_a3">C.	</string>
+    <string name="set3_5_a4">D.	</string>
+
+    <string name="set3_6_q">6. </string>
+    <string name="set3_6_a1">A.	</string>
+    <string name="set3_6_a2">B.	</string>
+    <string name="set3_6_a3">C.	</string>
+    <string name="set3_6_a4">D.	</string>
+
+    <string name="set3_7_q">7. </string>
+    <string name="set3_7_a1">A.	</string>
+    <string name="set3_7_a2">B.	</string>
+    <string name="set3_7_a3">C.	</string>
+    <string name="set3_7_a4">D.	</string>
+
+    <string name="set3_8_q">8. </string>
+    <string name="set3_8_a1">A.	</string>
+    <string name="set3_8_a2">B.	</string>
+    <string name="set3_8_a3">C.	</string>
+    <string name="set3_8_a4">D.	</string>
+
+    <string name="set3_9_q">9. </string>
+    <string name="set3_9_a1">A. </string>
+    <string name="set3_9_a2">B. </string>
+    <string name="set3_9_a3">C. </string>
+    <string name="set3_9_a4">D. </string>
+
+    <string name="set3_10_q">10. </string>
+    <string name="set3_10_a1">A. </string>
+    <string name="set3_10_a2">B. </string>
+    <string name="set3_10_a3">C. </string>
+    <string name="set3_10_a4">D. </string>
+
+    <string name="set3_11_q">11. </string>
+    <string name="set3_11_a1">A. </string>
+    <string name="set3_11_a2">B. </string>
+    <string name="set3_11_a3">C. </string>
+    <string name="set3_11_a4">D. </string>
+
+    <string name="set3_12_q">12. </string>
+    <string name="set3_12_a1">A. </string>
+    <string name="set3_12_a2">B. </string>
+    <string name="set3_12_a3">C. </string>
+    <string name="set3_12_a4">D. </string>
+
+    <string name="set3_13_q">13. </string>
+    <string name="set3_13_a1">A. </string>
+    <string name="set3_13_a2">B. </string>
+    <string name="set3_13_a3">C. </string>
+    <string name="set3_13_a4">D. </string>
+
+    <string name="set3_14_q">14. </string>
+    <string name="set3_14_a1">A. </string>
+    <string name="set3_14_a2">B. </string>
+    <string name="set3_14_a3">C. </string>
+    <string name="set3_14_a4">D. </string>
+
+    <string name="set3_15_q">15. </string>
+    <string name="set3_15_a1">A. </string>
+    <string name="set3_15_a2">B. </string>
+    <string name="set3_15_a3">C. </string>
+    <string name="set3_15_a4">D. </string>
+
+    <string name="set3_16_q">16. </string>
+    <string name="set3_16_a1">A. </string>
+    <string name="set3_16_a2">B. </string>
+    <string name="set3_16_a3">C. </string>
+    <string name="set3_16_a4">D. </string>
+
+    <string name="set3_17_q">17. </string>
+    <string name="set3_17_a1">A. </string>
+    <string name="set3_17_a2">B. </string>
+    <string name="set3_17_a3">C. </string>
+    <string name="set3_17_a4">D. </string>
+
+    <string name="set3_18_q">18. </string>
+    <string name="set3_18_a1">A. </string>
+    <string name="set3_18_a2">B. </string>
+    <string name="set3_18_a3">C. </string>
+    <string name="set3_18_a4">D. </string>
+
+    <string name="set3_19_q">19. </string>
+    <string name="set3_19_a1">A. </string>
+    <string name="set3_19_a2">B. </string>
+    <string name="set3_19_a3">C. </string>
+    <string name="set3_19_a4">D. </string>
+
+    <string name="set3_20_q">20. </string>
+    <string name="set3_20_a1">A. </string>
+    <string name="set3_20_a2">B. </string>
+    <string name="set3_20_a3">C. </string>
+    <string name="set3_20_a4">D. </string>
+</resources>

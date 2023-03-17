@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private final String actionBarColor = "#42515e";
 
     private Button lawsOfTheGameBtnHomePage;
-    private Button roafBtnHomePage;
     private Button theoreticalTestsBtnHomePage;
     private Button videoBtnHomePage;
     private Button stadiumAddressesBtnHomePage;
@@ -29,13 +28,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         getSupportActionBar().setBackgroundDrawable(colorDrawable);
 
         lawsOfTheGameBtnHomePage = findViewById(R.id.lawsOfTheGameBtnHomePage);
-        roafBtnHomePage = findViewById(R.id.roafBtnHomePage);
         theoreticalTestsBtnHomePage = findViewById(R.id.theoreticalTestsBtnHomePage);
         videoBtnHomePage = findViewById(R.id.videoBtnHomePage);
         stadiumAddressesBtnHomePage = findViewById(R.id.stadiumAddressesBtnHomePage);
 
         lawsOfTheGameBtnHomePage.setOnClickListener(this);
-        roafBtnHomePage.setOnClickListener(this);
         theoreticalTestsBtnHomePage.setOnClickListener(this);
         videoBtnHomePage.setOnClickListener(this);
         stadiumAddressesBtnHomePage.setOnClickListener(this);
@@ -48,11 +45,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
             case R.id.lawsOfTheGameBtnHomePage:
                 intent = new Intent(MainActivity.this, LawsOfTheGameActivity.class);
-                startActivity(intent);
-                break;
-
-            case R.id.roafBtnHomePage:
-                intent = new Intent(MainActivity.this, ROAFActivity.class);
                 startActivity(intent);
                 break;
 
