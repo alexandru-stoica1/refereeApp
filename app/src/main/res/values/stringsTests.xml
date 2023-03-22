@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="referees_l3">Arbitri - Liga a 3-a</string>
+    <string name="assistant_referees_l3">Arbitri asistenti - Liga a 3-a</string>
+
+    <string name="referees_l2">Arbitri - Liga a 2-a</string>
+    <string name="assistant_referees_l2">Arbitri asistenti - Liga a 2-a</string>
+
+    <string-array name="referees_l3">
+        <item>Liga 3 - Arbitri - NR. 1</item>
+        <item>Liga 3 - Arbitri - NR. 2</item>
+        <item>Liga 3 - Arbitri - NR. 3</item>
+        <item>Liga 3 - Arbitri - NR. 4</item>
+    </string-array>
+
+    <string-array name="assistant_referees_l3">
+        <item>Liga 3 - Arbitri asistenti - NR. 1</item>
+        <item>Liga 3 - Arbitri asistenti - NR. 2</item>
+        <item>Liga 3 - Arbitri asistenti - NR. 3</item>
+        <item>Liga 3 - Arbitri asistenti - NR. 4</item>
+        <item>Liga 3 - Arbitri asistenti - NR. 5</item>
+        <item>Liga 3 - Arbitri asistenti - NR. 6</item>
+    </string-array>
+
+    <string-array name="referees_l2">
+        <item>Liga 2 - Arbitri - NR. 1</item>
+        <item>Liga 2 - Arbitri - NR. 2</item>
+        <item>Liga 2 - Arbitri - NR. 3</item>
+        <item>Liga 2 - Arbitri - NR. 4</item>
+    </string-array>
+
+    <string-array name="assistant_referees_l2">
+        <item>Liga 2 - Arbitri asistenti - NR. 1</item>
+        <item>Liga 2 - Arbitri asistenti - NR. 2</item>
+        <item>Liga 2 - Arbitri asistenti - NR. 3</item>
+        <item>Liga 2 - Arbitri asistenti - NR. 4</item>
+        <item>Liga 2 - Arbitri asistenti - NR. 5</item>
+    </string-array>
+</resources>
