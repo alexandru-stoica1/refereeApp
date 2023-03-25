@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="check_answers">Verifica raspunsurile!</string>
+
     <string name="referees_l3">Arbitri - Liga a 3-a</string>
     <string name="assistant_referees_l3">Arbitri asistenti - Liga a 3-a</string>
 
