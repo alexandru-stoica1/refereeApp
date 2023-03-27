@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set19_1_q">1. Care este distanta față de linia de margine, la care trebuie sa se plaseze copiii de mingi la un joc de Liga 2, conform ROAF?</string>
+    <string name="set19_1_a1">A. la minim 3 m.</string>
+    <string name="set19_1_a2">B. la minim 4 m.</string>
+    <string name="set19_1_a3">C. la minim 2 m.</string>
+    <string name="set19_1_a4">D. la minim 1 m.</string>
+
+    <string name="set19_2_q">2. În timp ce mingea este în joc, un jucator înlocuitor își înlocuiește coechipierul accidentat fără a informa arbitrul. Ce decide arbitrul dacă acest jucător intervine în joc, oprind astfel un atac promițător, la 25 m de poartă?</string>
+    <string name="set19_2_a1">A. LLD; elimina jucatorul vinovat arătându-i direct cartonașul roșu.</string>
+    <string name="set19_2_a2">B. LLD; elimina (cr) jucatorul vinovat după ce îi arată de două ori cartonașul galben și o dată roșu.</string>
+    <string name="set19_2_a3">C. LLD; elimina (cr) jucatorul vinovat după ce îi arată o singură dată cartonașul galben și o dată roșu.</string>
+    <string name="set19_2_a4">D. LLD; cartonaș galben jucătorului vinovat.</string>
+
+    <string name="set19_3_q">3. Un jucător este avertizat pentru proteste în ultimul minut al jocului. În timpul loviturilor de departajare, același jucător protestează prin vorbe si gesturi la o decizie a arbitrului. Ce va face arbitrul?</string>
+    <string name="set19_3_a1">A. Avertizează (cg) jucătorul, după care îl elimină (cr), menționeză ambele cartonase în raportul de joc.</string>
+    <string name="set19_3_a2">B. Elimină (cr) jucătorul, menționeză eliminarea în raportul de joc.</string>
+    <string name="set19_3_a3">C. Atenționează jucătorul.</string>
+    <string name="set19_3_a4">D. Niciun raspuns nu este corect.</string>
+
+    <string name="set19_4_q">4. Jocul se reia cu o minge de arbitru în favoarea echipei în atac. Imediat după ce mingea intră în joc atacantul o trimite direct în poarta adversă, înainte ca altcineva să poată interveni. Care va fi decizia?</string>
+    <string name="set19_4_a1">A. Gol valabil.</string>
+    <string name="set19_4_a2">B. Repetă mingea de arbitru.</string>
+    <string name="set19_4_a3">C. Lovitură de poartă.</string>
+    <string name="set19_4_a4">D. Avertisment atacantului; repetă mingrea de arbitru.</string>
+
+    <string name="set19_5_q">5. Un atacant șutează la poartă. Mingea ar fi intrat în poartă, dar lovește arbitrul, plasat greșit, și se duce în afara terenului de joc, peste bara transversală. Care va fi decizia?</string>
+    <string name="set19_5_a1">A. Minge de arbitru pentru echipa în atac.</string>
+    <string name="set19_5_a2">B. Acordă gol, deoarece mingea ar fi intrat în poartă.</string>
+    <string name="set19_5_a3">C. Lovitură de poartă.</string>
+    <string name="set19_5_a4">D. Minge de arbitru pentru echipa în atac sau în favoarea portarului echipei în apărare.</string>
+
+    <string name="set19_6_q">6. In timpul jocului, aflat pe terenul de joc cu mingea la picior, in apropierea liniei de margine, un jucator arunca cu gheata spre un inlocuitor advers aflat pe banca de rezerve. Care va fi modalitatea de reluare a jocului?</string>
+    <string name="set19_6_a1">A. Minge de arbitru.</string>
+    <string name="set19_6_a2">B. LLI de pe linia de margine.</string>
+    <string name="set19_6_a3">C. LLD de pe locul unde se afla mingea.</string>
+    <string name="set19_6_a4">D. LLD de pe linia de margine.</string>
+
+    <string name="set19_7_q">7. Un apărător execută o aruncare de la margine spre portarul coechipier, aflat în propria suprafață de pedeapsa. Neatent, acesta atinge mingea cu mana (in interiorul suprafetei), încercând să o respingă, dar mingea intră în poartă. Ce decizie va lua arbitrul?</string>
+    <string name="set19_7_a1">A. Validează golul; reia jocul cu lovitură de începere.</string>
+    <string name="set19_7_a2">B. Nu valideză golul; acordă LLI echipei adverse.</string>
+    <string name="set19_7_a3">C. Acordă lovitură de colț.</string>
+    <string name="set19_7_a4">D. Repetă aruncarea de la margine.</string>
+
+    <string name="set19_8_q">8. Pentru că nu este de acord că arbitrul acordă LLD adversarilor, antrenorul secund al echipei B, de supărare, aruncă o sticlă de apă pe jos, lângă el (în suprafața tehnică) și fără să lovească pe nimeni. Arbitrul îl vede și oprește jocul. Care va fi decizia?</string>
+    <string name="set19_8_a1">A. Elimină (cr) antrenorul vinovat; LLI de pe linia de margine, din punctul cel mai apropiat de locul unde se afla antrenorul.</string>
+    <string name="set19_8_a2">B. Avertizează (cg) antrenorul vinovat; LLI de pe linia de margine, din punctul cel mai apropiat de locul unde se afla antrenorul.</string>
+    <string name="set19_8_a3">C. Avertizează (cg) antrenorul vinovat; LLD de pe linia de margine, din punctul cel mai apropiat de locul unde se afla antrenorul.</string>
+    <string name="set19_8_a4">D. Avertizează (cg) antrenorul vinovat; minge de arbitru.</string>
+
+    <string name="set19_9_q">9. Un jucător avertizat în prima repriză comite un atac imprudent in minutul 70. Arbitrul aplică avantajul, permițând continuarea jocului. După ce este interceptată de echipa sa, mingea ajunge la acest jucător, iar el o joacă. Ce decizie ia arbitrul?</string>
+    <string name="set19_9_a1">A. Lasă jocul să continue, iar la prima oprire elimină (cr) jucătorul vinovat.</string>
+    <string name="set19_9_a2">B. Oprește jocul; arată cartonașul roșu jucătorului vinovat; LLI.</string>
+    <string name="set19_9_a3">C. Oprește jocul; avertizează (cg) jucătorul vinovat, după care îl elimină (cr); LLI.</string>
+    <string name="set19_9_a4">D. Oprește jocul; avertizează (cg) jucătorul vinovat, după care îl elimină (cr); minge de arbitru.</string>
+
+    <string name="set19_10_q">10. Aflat la incalzire in spatele propriei porti, un jucator inlocuitor loveste mingea ce urma sa paraseasca terenul de joc, pe linia de poarta la aproximativ 10 metri de cel mai apropiat stalp al portii. Mingea este trimisa propriului portar care o prinde in maini, dupa care o degajeaza. Ce decizie va lua arbitrul?</string>
+    <string name="set19_10_a1">A. LLI; avertisment (cg) înlocuitorului.</string>
+    <string name="set19_10_a2">B. Lovitură de pedeapsă; avertisment (cg) înlocuitorului.</string>
+    <string name="set19_10_a3">C. LLI si avertisment portarului.</string>
+    <string name="set19_10_a4">D. Minge de arbitru.</string>
+
+    <string name="set19_11_q">11. Un atacant rămas singur cu portarul advers, în suprafața de pedeapsă, are o ocazie clară de gol. Încercând să joace mingea, portarul îl agață neglijent de picior, provocându-i căderea. Înainte ca arbitrul să fluiere pentru a acorda lovitură de pedeapsă, atacantul se ridică și reușește să înscrie. Care va fi decizia?</string>
+    <string name="set19_11_a1">A. Validează golul.</string>
+    <string name="set19_11_a2">B. Validează golul; avertisment (cg) portarului.</string>
+    <string name="set19_11_a3">C. Lovitură de pedeapsă; elimină (cr) portarul.</string>
+    <string name="set19_11_a4">D. Lovitură de pedeapsă; avertisment (cg) portarului.</string>
+
+    <string name="set19_12_q">12. Aflat in propria suprafata de pedeapsa portarul prinde mingea in maini, dupa care o lasa pe pamant si o degajeaza puternic cu piciorul, direct in poarta adversa. Care ar trebui sa fie decizia?</string>
+    <string name="set19_12_a1">A. Lovitura de poarta. Portarul nu poate marca direct un gol in poarta proprie si nici adversa.</string>
+    <string name="set19_12_a2">B. Acorda gol.</string>
+    <string name="set19_12_a3">C. Minge de arbitru.</string>
+    <string name="set19_12_a4">D. Niciun raspuns nu este corect.</string>
+
+    <string name="set19_13_q">13. Arbitrul dă semnalul executării loviturii de pedeapsă. Înainte ca acesta să lovească mingea, un coechipier al său intră in suprafața de pedeapsă, în timp ce portarul se deplasează 2 m în față, părăsind linia porții. Acesta din urmă respinge mingea în afara terenului de joc, peste bara transversală. Care va fi decizia?</string>
+    <string name="set19_13_a1">A. LLI în favoarea echipei în apărare.</string>
+    <string name="set19_13_a2">B. Repetarea loviturii de pedeapsă.</string>
+    <string name="set19_13_a3">C. Repetarea loviturii de pedeapsă și avertisment (cg) portarului.</string>
+    <string name="set19_13_a4">D. Repetarea loviturii de pedeapsă și atenționarea portarului.</string>
+
+    <string name="set19_14_q">14. În timp ce mingea se afla in posesia echipei sale, la linia mediana, aparatorul cu numarul 5 il loveste puternic cu pumnul in piept pe coechipierul cu numarul 6, aflat in propria suprafata de pedeapsa. Care va fi decizia arbitrului, jucatorul cu numarul 5 aflandu-se in afara suprafetei de pedeapsa?</string>
+    <string name="set19_14_a1">A. Opreste jocul; il elimina (cr) pe numarul 5; LLD in favoarea echipei adverse.</string>
+    <string name="set19_14_a2">B. Opreste jocul; il elimina (cr) pe numarul 5; LLI in favoarea echipei adverse.</string>
+    <string name="set19_14_a3">C. Opreste jocul; il elimina (cr) pe numarul 5; minge de arbitru.</string>
+    <string name="set19_14_a4">D. Opreste jocul; il elimina (cr) pe numarul 5; lovitura de pedeapsa in favoarea echipei adverse.</string>
+
+    <string name="set19_15_q">15. Un jucător al echipei în apărare joacă în mod voit mingea cu mâna, la aproximativ 25 m de propria poartă, oprind un atac promițător al echipei adverse. Arbitrul acordă LLD. Imediat un atacant execută corect lovitura liberă și reușește să înscrie un gol în poarta adversă. Care va fi decizia?</string>
+    <string name="set19_15_a1">A. Gol valabil.</string>
+    <string name="set19_15_a2">B. Gol valabil; avertisment (cg) apărătorului.</string>
+    <string name="set19_15_a3">C. Nu acordă golul; avertisment (cg) apărătorului; LLD.</string>
+    <string name="set19_15_a4">D. Nu acordă golul; avertisment (cg) apărătorului și atacantului; LLD.</string>
+
+    <string name="set19_16_q">16. Doi jucători ai echipei A solicită o pauză de apă între reprizele de prelungiri. Ce prevăd Legile Jocului într-o astfel de situație?</string>
+    <string name="set19_16_a1">A. Este permisă o scurtă pauză (de maximum un minut) în timpul căreia jucătorii se pot hidrata.</string>
+    <string name="set19_16_a2">B. Nu este permisă o pauză între reprizele de prelungiri. Jocul trebuie reluat imediat.</string>
+    <string name="set19_16_a3">C. O scurtă pauză poate fi permisă doar cu acceptul echipei adverse.</string>
+    <string name="set19_16_a4">D. Este permisă o pauză doar dacă așa s-a stabilit la ședința dinaintea jocului.</string>
+
+    <string name="set19_17_q">17. Înainte de executarea unei LLD, un jucător lovește cu pumnul în față un adversar. Arbitrul asistent semnalizează abaterea, dar arbitrul nu îl vede și permite continuarea jocului după executarea loviturii libere. Abia după 45 de secunde și o nouă reluare a jocului, arbitrul vede semnalizarea colegului și întrerupe jocul. Care va fi decizia?</string>
+    <string name="set19_17_a1">A. Elimină (cr) jucătorul vinovat; reia jocul cu LLI.</string>
+    <string name="set19_17_a2">B. Elimină (cr) jucătorul vinovat; reia jocul cu minge de arbitru.</string>
+    <string name="set19_17_a3">C. Elimină (cr) jucătorul vinovat; reia jocul cu LLD.</string>
+    <string name="set19_17_a4">D. Nu mai poate elimina jucătorul vinovat, pentru ca jocul a fost reluat, dar va consemna în raport; reia jocul cu minge de arbitru.</string>
+
+    <string name="set19_18_q">18. Unul dintre cei 11 titulari ai gazdelor, aflat la incălzirea dinaintea meciului, insultă echipa de arbitri care se încălzea alături, pe terenul de joc. Ce decizie va lua arbitrul, având în vedere faptul că foaia de joc a fost deja completată și predată de către delegat?</string>
+    <string name="set19_18_a1">A. Nu permite jucătorului respectiv să participe la joc. Echipa gazdă va evolua doar cu 10 jucători, dintre care unul va fi portar.</string>
+    <string name="set19_18_a2">B. Nu permite jucătorului respectiv să participe la joc. El poate fi înlocuit de un jucător desemnat ca înlocuitor, acesta neputând fi înlocuit; numărul de înlocuiri de care beneficiază echipa nu este redus.</string>
+    <string name="set19_18_a3">C. Nu permite jucătorului respectiv să participe la joc. El poate fi înlocuit de un jucător desemnat ca înlocuitor, acesta neputând fi înlocuit; numărul de înlocuiri de care beneficiază echipa se reduce.</string>
+    <string name="set19_18_a4">D. Nu permite jucătorului respectiv să participe la joc. El poate fi înlocuit de un jucător desemnat ca înlocuitor, acesta putând fi înlocuit de un jucător nedesemnat inițial; numărul de înlocuiri de care beneficiază echipa nu este redus.</string>
+
+    <string name="set19_19_q">19. Doi adversari cad în afara terenului de joc, peste linia de poartă, în timpul disputării mingii, care rămîne în joc. Atacantul se ridică rapid pentru a juca mingea, dar este impiedicat neglijent de aparator sa revină în teren. Care va fi decizia?</string>
+    <string name="set19_19_a1">A. Lasă jocul să continue. Abaterea a fost comisă în afara terenului.</string>
+    <string name="set19_19_a2">B. Oprește jocul. LLD de pe locul unde se afla mingea sau lovitură de pedeapsă.</string>
+    <string name="set19_19_a3">C. Oprește jocul. LLD de pe linia terenului, din punctul cel mai apropiat de locul unde s-a produs abaterea sau lovitură de pedeapsă.</string>
+    <string name="set19_19_a4">D. Oprește jocul. Minge de arbitru.</string>
+
+    <string name="set19_20_q">20. In minutul 89 al unui meci de Liga 2 se accidenteaza grav doi jucatori. Atat medicul delegat cat si medicul echipei gazda trebuie sa-i insoteasca la spital. Cine poate asigura asistenta medicala in continuare?</string>
+    <string name="set19_20_a1">A. Medicul sau asistentul medical al echipei vizitatoare inscris in raportul de arbitraj.</string>
+    <string name="set19_20_a2">B. Medicul echipei vizitatoare inscris in raportul de arbitraj.</string>
+    <string name="set19_20_a3">C. Un fizioterapeut sau un asistent medical.</string>
+    <string name="set19_20_a4">D. ROAF-ul nu permite ca asistenta medicala sa fie asigurata de altcineva. Jocul trebuie intrerupt.</string>
+</resources>
