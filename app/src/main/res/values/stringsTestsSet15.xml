@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set15_1_q">1. Un jucator - numarul 3 - este atacat violent de numarul 7 advers, la aproximativ 35 m de poarta celui din urma. Arbitrul aplica avantajul, deoarece mingea ajunge la un coechiper al numarului 3, care are o situatie clara de gol. Acesta suteaza insa peste bara transversala, fara ca mingea sa fie atinsa de alt jucator. Arbitrul acorda cartonas galben numarului 7 si LLD echipei adverse, de pe locul unde a avut loc faultul. A procedat el corect?</string>
+    <string name="set15_1_a1">A. Da.</string>
+    <string name="set15_1_a2">B. Da, acordă corect cartonas galben. Nu este corect LLD; trebuia sa reia jocul cu lovitura de poarta.</string>
+    <string name="set15_1_a3">C. Nu. Trebuia sa acorde cartonas rosu numarului 7 si sa reia jocul cu lovitura de poarta.</string>
+    <string name="set15_1_a4">D. Nu - trebuia sa acorde cartonas rosu numarului 7. Da – LLD.</string>
+
+    <string name="set15_2_q">2. Aflat în afara terenului, in zona liniei mediane, pentru a primi îngrijiri medicale, un jucător loveste violent cu piciorul un inlocuitor advers. Arbitrul asistent semnalizeaza imediat. Ce va decide arbitrul, mingea fiind in joc in posesia portarului coechipier cu jucatorul vinovat?</string>
+    <string name="set15_2_a1">A. Elimina (cr) jucatorul vinovat; minge de arbitru.</string>
+    <string name="set15_2_a2">B. Elimina (cr) jucatorul vinovat; LLI din locul unde se afla mingea.</string>
+    <string name="set15_2_a3">C. Elimina (cr) jucatorul vinovat; LLI de pe linia de margine, din punctul cel mai apropiat de locul abaterii.</string>
+    <string name="set15_2_a4">D. Elimina (cr) jucatorul vinovat; LLD de pe linia de margine, din punctul cel mai apropiat de locul abaterii.</string>
+
+    <string name="set15_3_q">3. Un jucator trimite mingea cu piciorul catre portarul coechipier aflat in propria suprafata de pedeapsa. Pentru ca mingea se ducea spre poarta, acesta o respinge cu mana, evitand astfel inscrierea unui gol. Ce decizie ia arbitrul, avand in vedere ca mingea a parasit terenul de joc?</string>
+    <string name="set15_3_a1">A. Acorda LLI echipei adverse.</string>
+    <string name="set15_3_a2">B. Acorda LLI echipei adverse. Avertizeaza portarul pentru comportare nesportiva.</string>
+    <string name="set15_3_a3">C. Acorda LLI echipei adverse. Elimina portarul pentru ca a impiedicat inscrierea unui gol.</string>
+    <string name="set15_3_a4">D. Acorda lovitura de la colt sau aruncare de la margine echipei adverse.</string>
+
+    <string name="set15_4_q">4. În timpul unei lovituri de pedeapsă, portarul părăsește linia porții, avansând aproximativ 2 m, înainte ca mingea să fie lovită. Executantul face o fentă neregulamentară și trimite mingea în poartă. Ce va decide arbitrul?</string>
+    <string name="set15_4_a1">A. LLI; avertisment (cg) executantului.</string>
+    <string name="set15_4_a2">B. LLI; avertisment (cg) portarului și executantului.</string>
+    <string name="set15_4_a3">C. Repetă lovitura de pedeapsă; avertisment (cg) executantului.</string>
+    <string name="set15_4_a4">D. Gol valabil.</string>
+
+    <string name="set15_5_q">5. Jocul este reluat cu o minge de arbitru in prezenta unui jucator din echipa A. Inainte ca mingea sa atinga pamantul un jucator din echipa B se apropie la aproximativ 2 m de ea cu intentia de a o juca, la fel ca adversarul sau. Care va fi decizia arbitrului?</string>
+    <string name="set15_5_a1">A. Lasa jocul sa continue.</string>
+    <string name="set15_5_a2">B. Lasa jocul sa continue doar daca mingea este atinsa prima data de jucatorul din echipa A.</string>
+    <string name="set15_5_a3">C. Avertisment (cg) jucatorului din echipa B; repeta mingea de arbitru.</string>
+    <string name="set15_5_a4">D. Repeta mingea de arbitru; atentioneaza jucatorul din echipa B.</string>
+
+    <string name="set15_6_q">6. Inainte de inceperea jocului, arbitrul constata ca tricoul portarului oaspete nu are un numar imprimat pe spate. Conform ROAF, este permis acest lucru?</string>
+    <string name="set15_6_a1">A. Da. Numarul nu este obligatoriu, deoarece portarul nu poate fi confundat, cum s-ar putea intampla in cazul jucatorilor.</string>
+    <string name="set15_6_a2">B. Nu. Numarul este obligatoriu si trebuie sa fie vizibil de la distanta.</string>
+    <string name="set15_6_a3">C. Da, deoarece se stie ca el poarta de obicei numarul 1 sau numarul 12.</string>
+    <string name="set15_6_a4">D. Da, daca numarul apare pe sort/pantaloni.</string>
+
+    <string name="set15_7_q">7. Se execută rapid o lovitură de poartă. Adversarii (atacanți) sunt în afara suprafeței de pedeapsă, dar în arcul de cerc când aparatorul pune mingea în joc. Un atacant aleargă imediat spre minge și o interceptează. Ce face arbitrul?</string>
+    <string name="set15_7_a1">A. Lasă jocul să continue.</string>
+    <string name="set15_7_a2">B. Oprește jocul; repetă lovitura de poartă.</string>
+    <string name="set15_7_a3">C. Oprește jocul; avertizeaza (cg) atacantul; repetă lovitura de poartă.</string>
+    <string name="set15_7_a4">D. Niciun raspuns nu este corect.</string>
+
+    <string name="set15_8_q">8. La executarea unei lovituri de colt mingea se misca aproximativ 20 cm, dupa ce este lovita usor de executant, fara sa paraseasca insa sfertul de cerc. Imediat, mingea este preluata de un alt jucator. Ce face arbitrul?</string>
+    <string name="set15_8_a1">A. Lasa jocul sa continue.</string>
+    <string name="set15_8_a2">B. Opreste jocul; dispune repetarea loviturii de colt.</string>
+    <string name="set15_8_a3">C. Opreste jocul; avertizeaza (cg) executantul; dispune repetarea loviturii de colt.</string>
+    <string name="set15_8_a4">D. Opreste jocul; avertizeaza (cg) jucatorul care a preluat mingea; dispune repetarea loviturii de colt.</string>
+
+    <string name="set15_9_q">9. Atacantul suteaza la poarta, dar un aparator aflat pe linia portii respinge intentionat mingea cu mana, impiedicand inscrierea unui gol. Arbitrul nu observa abaterea si fluiera finalul jocului. Imediat insa arbitrul asistent, care a vazut ce s-a intamplat, il atentioneaza in privinta greselii aparatorului. Care va fi decizia?</string>
+    <string name="set15_9_a1">A. Arbitrul nu mai poate reveni asupra deciziei, pentru ca a fluierat finalul jocului.</string>
+    <string name="set15_9_a2">B. Arbitrul nu mai poate reveni asupra deciziei tehnice, dar poate elimina (cr) aparatorul.</string>
+    <string name="set15_9_a3">C. Lovitura de pedeapsa; cartonas rosu aparatorului.</string>
+    <string name="set15_9_a4">D. Lovitura de pedeapsa; cartonas galben aparatorului.</string>
+
+    <string name="set15_10_q">10. Un jucător aflat în poziție de ofsaid în momentul pasei de la coechipier revine în propria jumătate de teren și joacă mingea. Cum va fi reluat jocul?</string>
+    <string name="set15_10_a1">A. LLI de pe locul în care se afla jucătorul în momentul pasei.</string>
+    <string name="set15_10_a2">B. LLI de pe locul în care jucătorul a atins mingea.</string>
+    <string name="set15_10_a3">C. LLI de pe linia mediană.</string>
+    <string name="set15_10_a4">D. Lasă jocul să continue deoarece jucătorul se afla în propria jumătate de teren când a jucat mingea.</string>
+
+    <string name="set15_11_q">11. În timp ce jocul se disputa la poarta echipei sale, un înlocuitor aflat la linia mediana intra 2 metri in terenul de joc, urmărind faza. Un adversar aflat in apropiere, il strange de gat incercand sa-l duca in afara terenului. Ce decizie ia arbitrul?</string>
+    <string name="set15_11_a1">A. LLI pentru echipa adversarului; elimina adversarul si avertizeaza inlocuitorul.</string>
+    <string name="set15_11_a2">B. LLD pentru echipa inlocuitorului; elimina adversarul si avertizeaza inlocuitorul.</string>
+    <string name="set15_11_a3">C. LLI pentru echipa adversarului; avertizeaza cei doi jucatori.</string>
+    <string name="set15_11_a4">D. LLD sau lovitura de pedeapsa pentru echipa inlocuitorului; elimina adversarul si avertizeaza inlocuitorul.</string>
+
+    <string name="set15_12_q">12. Atacantul se află într-o poziție clară de ofsaid în momentul în care mingea îi este pasată de un coechipier. Înainte însă ca mingea să ajungă la el, un apărător o oprește intenționat cu mâna în interiorul suprafeței de pedeapsă. Jucătorul în ofsaid se află la aproximativ șase metri distanță de apărător, în acel moment. Ce decizie ia arbitrul?</string>
+    <string name="set15_12_a1">A. LLI pentru ofsaid.</string>
+    <string name="set15_12_a2">B. LLI pentru ofsaid; avertisment (cg) apărătorului.</string>
+    <string name="set15_12_a3">C. Lovitură de pedeapsă; avertisment (cg) apărătorului.</string>
+    <string name="set15_12_a4">D. Lovitură de pedeapsă.</string>
+
+    <string name="set15_13_q">13. La efectuarea unei aruncari de la margine de catre echipa A, executantul incalca procedura, intrand cu ambele picioare in interiorul terenului de joc (fara sa atinga linia de margine). Arbitrul asistent semnalizeaza, dar nu este vazut de arbitru. Mingea ajunge la un jucator al echipei B care o trimite direct in poarta adversa. In momentul in care valideaza golul, arbitrul vede semnalizarea. Ce decizie va lua?</string>
+    <string name="set15_13_a1">A. Aplica avantajul; gol valabil.</string>
+    <string name="set15_13_a2">B. Anuleaza golul; aruncarea de la margine va fi repetata de echipa A.</string>
+    <string name="set15_13_a3">C. Anuleaza golul; aruncarea de la margine va fi repetata de echipa B.</string>
+    <string name="set15_13_a4">D. Anuleaza golul; avertizeaza (cg) executantul; aruncarea de la margine va fi repetata de echipa B.</string>
+
+    <string name="set15_14_q">14. Portarul execută o lovitură de poartă, dar lovește greșit mingea, care se deplasează doar 0.5 m spre terenul advers. Uluit, acesta o ia în mâini pentru a repeta lovitura. Ce decizie va lua arbitrul, dacă niciun adversar nu a intrat in suprafața de pedeapsă și nu ar fi putut ajunge la minge?</string>
+    <string name="set15_14_a1">A. Repetă lovitura de poartă.</string>
+    <string name="set15_14_a2">B. LLI în favoarea echipei adverse.</string>
+    <string name="set15_14_a3">C. LLI în favoarea echipei adverse; avertisment portarului.</string>
+    <string name="set15_14_a4">D. LLI în favoarea echipei adverse; avertisment sau cartonaș roșu portarului.</string>
+
+    <string name="set15_15_q">15. Un jucator al echipei A vrea sa execute rapid o aruncare de la margine. Mingea se afla in suprafata tehnica a echipei B, langa antrenorul principal. Cand jucatorul se apleaca sa o ia, antrenorul o trimite cu piciorul 6-7 metri in lateral intarziind reluare jocului. Ce decizie va lua arbitrul?</string>
+    <string name="set15_15_a1">A. Elimina (CR) antrenorul din incinta terenului. Reia jocul cu aruncare de la margine.</string>
+    <string name="set15_15_a2">B. Avertizeaza (CG) antrenorul. Reia jocul cu aruncare de la margine.</string>
+    <string name="set15_15_a3">C. Atentioneaza verbal antrenorul. Reia jocul cu aruncare de la margine.</string>
+    <string name="set15_15_a4">D. Elimina (CR) antrenorul din incinta terenului. Reia jocul cu LLI de pe linia de margine.</string>
+
+    <string name="set15_16_q">16. Se executa lovituri de departajare. Inaintea celei de-a treia lovituri, portarul echipei B injura un spectator, care l-a provocat tot meciul. Care va fi decizia arbitrului?</string>
+    <string name="set15_16_a1">A. Eliminare (cr); permite inlocuirea sa cu portarul de rezerva, daca echipa B nu a efectuat toate inlocuirile.</string>
+    <string name="set15_16_a2">B. Deoarece loviturile de departajare nu fac parte din joc, portarul nu poate fi sanctionat disciplinar; situatia va fi mentionata in raportul arbitrului.</string>
+    <string name="set15_16_a3">C. Cand este implicat un spectator se iau in calcul doar abaterile de natura fizica. In acest caz nu se vor lua măsuri împotriva portarului.</string>
+    <string name="set15_16_a4">D. Eliminare (cr); echipa B va desemna un nou portar dintre ceilalți coechipieri aflați pe terenul de joc.</string>
+
+    <string name="set15_17_q">17. Executantul loviturii de poarta trimite mingea pana in suprafata de pedeapsa adversa. Imediat, iese de pe terenul de joc si loveste puternic cu pumnul in piept un inlocuitor, coleg de echipa, aflat la incalzire, la 7 m lateral de stalpul portii spre arbitrul asistent. Acesta din urma semnalizeaza prompt,  comunicandu-i arbitrului si ca inainte de a fi lovit, inlocuitorul l-a injurat pe executant. Care va fi decizia?</string>
+    <string name="set15_17_a1">A. Cartonas rosu executantului si inlocuitorului; LLI de pe locul unde se afla mingea in momentul opririi jocului in favoarea echipei adverse.</string>
+    <string name="set15_17_a2">B. Cartonas rosu executantului si inlocuitorului; lovitura de pedeapsa in favoarea echipei adverse.</string>
+    <string name="set15_17_a3">C. Cartonas rosu executantului si inlocuitorului; LLI de pe linia de poarta din punctul cel mai apropiat de locul abaterii, in favoarea echipei adverse.</string>
+    <string name="set15_17_a4">D. Cartonas rosu executantului si inlocuitorului; minge de arbitru acordata portarului advers, in propria suprafata de pedeapsa.</string>
+
+    <string name="set15_18_q">18. Aparatorul cu numarul 4 ataca imprudent un adversar in afara suprafetei de pedeapsa. Convins ca arbitrul va opri jocul, coechipierul acestuia cu numarul 5 prinde mingea in brate in interiorul suprafetei de pedeapsa, inainte ca arbitrul sa fluiere. Care va fi decizia?</string>
+    <string name="set15_18_a1">A. Avertisment (CG) numarului 4; LLD de pe locul unde s-a comis faultul.</string>
+    <string name="set15_18_a2">B. Avertisment (CG) numarului 4; lovitura de pedeapsa.</string>
+    <string name="set15_18_a3">C. Avertisment (CG) numarului 4 si numarului 5; lovitura de pedeapsa.</string>
+    <string name="set15_18_a4">D. Lovitura de pedeapsa.</string>
+
+    <string name="set15_19_q">19. Apărătorul execută o aruncare de la margine. Înainte să intre pe teren, mingea cade o dată pe pământ în afara lui. Apoi ajunge la un atacant advers care o trimite direct in poarta. Care va fi decizia?</string>
+    <string name="set15_19_a1">A. Gol valabil; lovitura de începere.</string>
+    <string name="set15_19_a2">B. Nu validează golul; lovitură de poartă.</string>
+    <string name="set15_19_a3">C. Nu validează golul; repetarea aruncării de la margine de către echipa adversă.</string>
+    <string name="set15_19_a4">D. Nu validează golul; repetarea aruncării de la margine de către aceeași echipă.</string>
+
+    <string name="set15_20_q">20. Inainte de inceperea jocului, echipa oaspete contesta identitatea a 2 jucători adversi. Echipa gazda decide sa nu ii mai foloseasca. In acest caz, conform ROAF...</string>
+    <string name="set15_20_a1">A. jucatorii respectivi pot fi inlocuiti numai inainte de inceperea jocului; arbitrul va consemna acest lucru in raportul de arbitraj; numarul de inlocuiri se reduce in mod corespunzator.</string>
+    <string name="set15_20_a2">B. jucatorii respectivi pot fi inlocuiti numai inainte de inceperea jocului; arbitrul va consemna acest lucru in raportul de arbitraj; numarul de inlocuiri si numarul de jucatori de rezerva se vor reduce in mod corespunzator.</string>
+    <string name="set15_20_a3">C. cei 2 jucatori pot fi inlocuiti numai inainte de inceperea jocului; arbitrul va consemna acest lucru in raportul de arbitraj; numarul de jucatori de rezerva se reduce in mod corespunzator.</string>
+    <string name="set15_20_a4">D. Niciun raspuns nu este corect.</string>
+</resources>

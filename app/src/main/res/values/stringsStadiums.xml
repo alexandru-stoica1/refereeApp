@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agronomie">Agronomie</string>
+    <string name="aspol">Aspol</string>
+    <string name="aversa">Aversa</string>
+    <string name="biruinta">Biruinta</string>
+    <string name="caldararu">Caldararu</string>
+    <string name="cernica">Cernica</string>
+    <string name="coresi">Coresi</string>
+    <string name="dacogetica">Daco Getica</string>
+    <string name="danchilom">Dan Chilom</string>
+    <string name="dangelo">D\'angelo</string>
+    <string name="dinamo">Dinamo central/sintetic/Piti Varga</string>
+    <string name="fcsb">Fcsb</string>
+    <string name="iontiriac">Ion Tiriac</string>
+    <string name="ior">IOR</string>
+    <string name="liamanoliu">Lia Manoliu</string>
+    <string name="metaloglobus">Metaloglobus</string>
+    <string name="mobexpert">Mobexpert - Constructorul Feroviar</string>
+    <string name="otopeni">Otopeni</string>
+    <string name="parculflorilor">Parcul Florilor</string>
+    <string name="piperasintetic">Pipera Sintetic</string>
+    <string name="romprim">Romprim</string>
+    <string name="samurcasi">Samurcasi</string>
+    <string name="tractiunea">Tractiunea</string>
+    <string name="tunari">Tunari</string>
+    <string name="vointa">Vointa</string>
+
+    <string-array name="agronomie">
+        <item>44.4717</item>
+        <item>26.0629</item>
+    </string-array>
+
+    <string-array name="aspol">
+        <item>44.43821247715154</item>
+        <item>26.179755464666297</item>
+    </string-array>
+
+    <string-array name="aversa">
+        <item>44.43083575717084</item>
+        <item>26.21779930533331</item>
+    </string-array>
+
+    <string-array name="biruinta">
+        <item>44.486298489291066</item>
+        <item>26.050311352117593</item>
+    </string-array>
+
+    <string-array name="caldararu">
+        <item>44.41031178501979</item>
+        <item>26.27116269217948</item>
+    </string-array>
+
+    <string-array name="cernica">
+        <item>44.42269806668643</item>
+        <item>26.275888394690238</item>
+    </string-array>
+
+    <string-array name="coresi">
+        <item>44.48390665206519</item>
+        <item>26.064968342143548</item>
+    </string-array>
+
+    <string-array name="dacogetica">
+        <item>44.46706579894913</item>
+        <item>26.145584636679825</item>
+    </string-array>
+
+    <string-array name="danchilom">
+        <item>44.436946717678246</item>
+        <item>26.148151416883074</item>
+    </string-array>
+
+    <string-array name="dangelo">
+        <item>44.38343769730948</item>
+        <item>26.152379444813647</item>
+    </string-array>
+
+    <string-array name="dinamo">
+        <item>44.456268135693925</item>
+        <item>26.102626647038942</item>
+    </string-array>
+
+    <string-array name="fcsb">
+        <item>44.34185529177304</item>
+        <item>26.153363886757287</item>
+    </string-array>
+
+    <string-array name="iontiriac">
+        <item>44.442499318102996</item>
+        <item>26.184012277943463</item>
+    </string-array>
+
+    <string-array name="ior">
+        <item>44.41136024140277</item>
+        <item>26.18197000276198</item>
+    </string-array>
+
+    <string-array name="liamanoliu">
+        <item>44.4358651212604</item>
+        <item>26.155126768883896</item>
+    </string-array>
+
+    <string-array name="metaloglobus">
+        <item>44.4421936059902</item>
+        <item>26.18585586531178</item>
+    </string-array>
+
+    <string-array name="mobexpert">
+        <item>44.50131127628137</item>
+        <item>26.03015240615606</item>
+    </string-array>
+
+    <string-array name="otopeni">
+        <item>44.54294665044984</item>
+        <item>26.06742665956883</item>
+    </string-array>
+
+    <string-array name="parculflorilor">
+        <item>44.4432956364273</item>
+        <item>26.1694026794347</item>
+    </string-array>
+
+    <string-array name="piperasintetic">
+        <item>44.49881173931707</item>
+        <item>26.14646581330014</item>
+    </string-array>
+
+    <string-array name="romprim">
+        <item>44.38877604520283</item>
+        <item>26.1346008689028</item>
+    </string-array>
+
+    <string-array name="samurcasi">
+        <item>44.57349213328722</item>
+        <item>25.920309134415906</item>
+    </string-array>
+
+    <string-array name="tractiunea">
+        <item>44.491335656575075</item>
+        <item>25.999025617616663</item>
+    </string-array>
+
+    <string-array name="tunari">
+        <item>44.55204364909225</item>
+        <item>26.14292765361555</item>
+    </string-array>
+
+    <string-array name="vointa">
+        <item>44.477686141148226</item>
+        <item>26.100594735021726</item>
+    </string-array>
+</resources>
