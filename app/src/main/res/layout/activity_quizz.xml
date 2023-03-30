@@ -1016,12 +1016,13 @@
             </RadioGroup>
 
             <Button
+                android:id="@+id/checkAnswers"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:layout_below="@id/question20RadioGroup"
                 android:backgroundTint="@color/yellow"
-                android:text="">
+                android:text="@string/check_answers">
 
 
             </Button>

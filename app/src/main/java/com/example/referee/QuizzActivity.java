@@ -5,11 +5,15 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-public class QuizzActivity extends AppCompatActivity {
+import java.util.HashMap;
+
+public class QuizzActivity extends AppCompatActivity implements View.OnClickListener {
     private int setNumber;
     private final String actionBarColor = "#42515e";
 
@@ -134,6 +138,9 @@ public class QuizzActivity extends AppCompatActivity {
     private RadioButton question20Answer3;
     private RadioButton question20Answer4;
 
+    private HashMap<Integer, Integer> correctAnswers;
+    private Button checkAnswers;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -143,6 +150,8 @@ public class QuizzActivity extends AppCompatActivity {
         getSupportActionBar().setBackgroundDrawable(colorDrawable);
 
         setNumber = (int) getIntent().getSerializableExtra("setNumber");
+
+        correctAnswers = new HashMap<>();
 
         String actionBarTitle = "";
 
@@ -165,8 +174,721 @@ public class QuizzActivity extends AppCompatActivity {
         findViewByIds();
         setQuestionText(setNumber);
         setAnswersText(setNumber);
+        setCorrectAnswers(setNumber);
 
+        checkAnswers.setOnClickListener(this);
     }
+
+    @Override
+    public void onClick(View v) {
+        colorTextRED();
+        colorTextGREEN();
+    }
+
+    private void colorTextGREEN() {
+        System.out.println(correctAnswers);
+        if (correctAnswers.get(1) == 1) {
+            question1Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(1) == 2) {
+            question1Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(1) == 3) {
+            question1Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(1) == 4) {
+            question1Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(2) == 1) {
+            question2Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(2) == 2) {
+            question2Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(2) == 3) {
+            question2Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(2) == 4) {
+            question2Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(3) == 1) {
+            question3Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(3) == 2) {
+            question3Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(3) == 3) {
+            question3Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(3) == 4) {
+            question3Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(4) == 1) {
+            question4Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(4) == 2) {
+            question4Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(4) == 3) {
+            question4Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(4) == 4) {
+            question4Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(5) == 1) {
+            question5Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(5) == 2) {
+            question5Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(5) == 3) {
+            question5Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(5) == 4) {
+            question5Answer4.setTextColor(Color.GREEN);
+        }
+        if (correctAnswers.get(6) == 1) {
+            question6Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(6) == 2) {
+            question6Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(6) == 3) {
+            question6Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(6) == 4) {
+            question6Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(7) == 1) {
+            question7Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(7) == 2) {
+            question7Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(7) == 3) {
+            question7Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(7) == 4) {
+            question7Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(8) == 1) {
+            question8Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(8) == 2) {
+            question8Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(8) == 3) {
+            question8Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(8) == 4) {
+            question8Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(9) == 1) {
+            question9Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(9) == 2) {
+            question9Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(9) == 3) {
+            question9Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(9) == 4) {
+            question9Answer4.setTextColor(Color.GREEN);
+        }
+        if (correctAnswers.get(10) == 1) {
+            question10Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(10) == 2) {
+            question10Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(10) == 3) {
+            question10Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(10) == 4) {
+            question10Answer4.setTextColor(Color.GREEN);
+        }
+        if (correctAnswers.get(11) == 1) {
+            question11Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(11) == 2) {
+            question11Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(11) == 3) {
+            question11Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(11) == 4) {
+            question11Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(12) == 1) {
+            question12Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(12) == 2) {
+            question12Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(12) == 3) {
+            question12Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(12) == 4) {
+            question12Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(13) == 1) {
+            question13Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(13) == 2) {
+            question13Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(13) == 3) {
+            question13Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(13) == 4) {
+            question13Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(14) == 1) {
+            question14Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(14) == 2) {
+            question14Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(14) == 3) {
+            question14Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(14) == 4) {
+            question14Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(15) == 1) {
+            question15Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(15) == 2) {
+            question15Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(15) == 3) {
+            question15Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(15) == 4) {
+            question15Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(16) == 1) {
+            question16Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(16) == 2) {
+            question16Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(16) == 3) {
+            question16Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(16) == 4) {
+            question16Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(17) == 1) {
+            question17Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(17) == 2) {
+            question17Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(17) == 3) {
+            question17Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(17) == 4) {
+            question17Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(18) == 1) {
+            question18Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(18) == 2) {
+            question18Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(18) == 3) {
+            question18Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(18) == 4) {
+            question18Answer4.setTextColor(Color.GREEN);
+        }
+
+        if (correctAnswers.get(19) == 1) {
+            question19Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(19) == 2) {
+            question19Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(19) == 3) {
+            question19Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(19) == 4) {
+            question19Answer4.setTextColor(Color.GREEN);
+        }
+        if (correctAnswers.get(20) == 1) {
+            question20Answer1.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(20) == 2) {
+            question20Answer2.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(20) == 3) {
+            question20Answer3.setTextColor(Color.GREEN);
+        } else if (correctAnswers.get(20) == 4) {
+            question20Answer4.setTextColor(Color.GREEN);
+        }
+    }
+
+    private void colorTextRED() {
+        question1Answer1.setTextColor(Color.RED);
+        question1Answer2.setTextColor(Color.RED);
+        question1Answer3.setTextColor(Color.RED);
+        question1Answer4.setTextColor(Color.RED);
+
+        question2Answer1.setTextColor(Color.RED);
+        question2Answer2.setTextColor(Color.RED);
+        question2Answer3.setTextColor(Color.RED);
+        question2Answer4.setTextColor(Color.RED);
+
+        question3Answer1.setTextColor(Color.RED);
+        question3Answer2.setTextColor(Color.RED);
+        question3Answer3.setTextColor(Color.RED);
+        question3Answer4.setTextColor(Color.RED);
+
+        question4Answer1.setTextColor(Color.RED);
+        question4Answer2.setTextColor(Color.RED);
+        question4Answer3.setTextColor(Color.RED);
+        question4Answer4.setTextColor(Color.RED);
+
+        question5Answer1.setTextColor(Color.RED);
+        question5Answer2.setTextColor(Color.RED);
+        question5Answer3.setTextColor(Color.RED);
+        question5Answer4.setTextColor(Color.RED);
+
+        question6Answer1.setTextColor(Color.RED);
+        question6Answer2.setTextColor(Color.RED);
+        question6Answer3.setTextColor(Color.RED);
+        question6Answer4.setTextColor(Color.RED);
+
+        question7Answer1.setTextColor(Color.RED);
+        question7Answer2.setTextColor(Color.RED);
+        question7Answer3.setTextColor(Color.RED);
+        question7Answer4.setTextColor(Color.RED);
+
+        question8Answer1.setTextColor(Color.RED);
+        question8Answer2.setTextColor(Color.RED);
+        question8Answer3.setTextColor(Color.RED);
+        question8Answer4.setTextColor(Color.RED);
+
+        question9Answer1.setTextColor(Color.RED);
+        question9Answer2.setTextColor(Color.RED);
+        question9Answer3.setTextColor(Color.RED);
+        question9Answer4.setTextColor(Color.RED);
+
+        question10Answer1.setTextColor(Color.RED);
+        question10Answer2.setTextColor(Color.RED);
+        question10Answer3.setTextColor(Color.RED);
+        question10Answer4.setTextColor(Color.RED);
+
+        question11Answer1.setTextColor(Color.RED);
+        question11Answer2.setTextColor(Color.RED);
+        question11Answer3.setTextColor(Color.RED);
+        question11Answer4.setTextColor(Color.RED);
+
+        question12Answer1.setTextColor(Color.RED);
+        question12Answer2.setTextColor(Color.RED);
+        question12Answer3.setTextColor(Color.RED);
+        question12Answer4.setTextColor(Color.RED);
+
+        question13Answer1.setTextColor(Color.RED);
+        question13Answer2.setTextColor(Color.RED);
+        question13Answer3.setTextColor(Color.RED);
+        question13Answer4.setTextColor(Color.RED);
+
+        question14Answer1.setTextColor(Color.RED);
+        question14Answer2.setTextColor(Color.RED);
+        question14Answer3.setTextColor(Color.RED);
+        question14Answer4.setTextColor(Color.RED);
+
+        question15Answer1.setTextColor(Color.RED);
+        question15Answer2.setTextColor(Color.RED);
+        question15Answer3.setTextColor(Color.RED);
+        question15Answer4.setTextColor(Color.RED);
+
+        question16Answer1.setTextColor(Color.RED);
+        question16Answer2.setTextColor(Color.RED);
+        question16Answer3.setTextColor(Color.RED);
+        question16Answer4.setTextColor(Color.RED);
+
+        question17Answer1.setTextColor(Color.RED);
+        question17Answer2.setTextColor(Color.RED);
+        question17Answer3.setTextColor(Color.RED);
+        question17Answer4.setTextColor(Color.RED);
+
+        question18Answer1.setTextColor(Color.RED);
+        question18Answer2.setTextColor(Color.RED);
+        question18Answer3.setTextColor(Color.RED);
+        question18Answer4.setTextColor(Color.RED);
+
+        question19Answer1.setTextColor(Color.RED);
+        question19Answer2.setTextColor(Color.RED);
+        question19Answer3.setTextColor(Color.RED);
+        question19Answer4.setTextColor(Color.RED);
+
+        question20Answer1.setTextColor(Color.RED);
+        question20Answer2.setTextColor(Color.RED);
+        question20Answer3.setTextColor(Color.RED);
+        question20Answer4.setTextColor(Color.RED);
+    }
+
+    private void setCorrectAnswers(int setNumber) {
+        if (setNumber == 1) {
+            correctAnswers.put(1, 2);
+            correctAnswers.put(2, 1);
+            correctAnswers.put(3, 2);
+            correctAnswers.put(4, 1);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 3);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 4);
+            correctAnswers.put(11, 4);
+            correctAnswers.put(12, 2);
+            correctAnswers.put(13, 3);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 4);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 4);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 4);
+        } else if (setNumber == 2) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 1);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 4);
+            correctAnswers.put(12, 2);
+            correctAnswers.put(13, 3);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 4);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 4);
+        } else if (setNumber == 3) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 3);
+            correctAnswers.put(4, 4);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 4);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 4);
+            correctAnswers.put(12, 2);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 1);
+            correctAnswers.put(20, 4);
+        } else if (setNumber == 4) {
+            correctAnswers.put(1, 4);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 3);
+            correctAnswers.put(4, 4);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 4);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 3);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 1);
+            correctAnswers.put(20, 4);
+        } else if (setNumber == 5) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 1);
+            correctAnswers.put(4, 2);
+            correctAnswers.put(5, 4);
+            correctAnswers.put(6, 4);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 4);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 3);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 1);
+            correctAnswers.put(20, 4);
+        } else if (setNumber == 6) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 4);
+            correctAnswers.put(12, 2);
+            correctAnswers.put(13, 3);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 4);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 4);
+        } else if (setNumber == 7) {
+            correctAnswers.put(1, 2);
+            correctAnswers.put(2, 3);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 2);
+            correctAnswers.put(6, 1);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 2);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 3);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 4);
+            correctAnswers.put(18, 2);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 8) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 3);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 2);
+            correctAnswers.put(6, 3);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 1);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 2);
+            correctAnswers.put(15, 3);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 4);
+            correctAnswers.put(18, 3);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 9) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 3);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 1);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 1);
+            correctAnswers.put(7, 4);
+            correctAnswers.put(8, 2);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 1);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 4);
+            correctAnswers.put(18, 4);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 10) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 3);
+            correctAnswers.put(3, 3);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 2);
+            correctAnswers.put(6, 3);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 3);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 4);
+            correctAnswers.put(18, 4);
+            correctAnswers.put(19, 4);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 11) {
+            correctAnswers.put(1, 2);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 2);
+            correctAnswers.put(6, 4);
+            correctAnswers.put(7, 3);
+            correctAnswers.put(8, 1);
+            correctAnswers.put(9, 1);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 3);
+            correctAnswers.put(12, 3);
+            correctAnswers.put(13, 2);
+            correctAnswers.put(14, 4);
+            correctAnswers.put(15, 1);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 1);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 2);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 12) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 3);
+            correctAnswers.put(3, 2);
+            correctAnswers.put(4, 4);
+            correctAnswers.put(5, 1);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 1);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 4);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 4);
+            correctAnswers.put(17, 3);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 1);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 13) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 2);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 1);
+            correctAnswers.put(9, 3);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 4);
+            correctAnswers.put(14, 3);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 4);
+            correctAnswers.put(17, 3);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 1);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 14) {
+            correctAnswers.put(1, 2);
+            correctAnswers.put(2, 2);
+            correctAnswers.put(3, 2);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 4);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 1);
+            correctAnswers.put(9, 3);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 3);
+            correctAnswers.put(14, 1);
+            correctAnswers.put(15, 1);
+            correctAnswers.put(16, 4);
+            correctAnswers.put(17, 3);
+            correctAnswers.put(18, 1);
+            correctAnswers.put(19, 4);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 15) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 1);
+            correctAnswers.put(4, 1);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 2);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 1);
+            correctAnswers.put(9, 3);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 3);
+            correctAnswers.put(14, 2);
+            correctAnswers.put(15, 1);
+            correctAnswers.put(16, 4);
+            correctAnswers.put(17, 3);
+            correctAnswers.put(18, 2);
+            correctAnswers.put(19, 4);
+            correctAnswers.put(20, 3);
+        } else if (setNumber == 16) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 1);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 2);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 3);
+            correctAnswers.put(7, 2);
+            correctAnswers.put(8, 4);
+            correctAnswers.put(9, 3);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 2);
+            correctAnswers.put(12, 4);
+            correctAnswers.put(13, 1);
+            correctAnswers.put(14, 2);
+            correctAnswers.put(15, 3);
+            correctAnswers.put(16, 2);
+            correctAnswers.put(17, 1);
+            correctAnswers.put(18, 2);
+            correctAnswers.put(19, 3);
+            correctAnswers.put(20, 2);
+        } else if (setNumber == 17) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 4);
+            correctAnswers.put(3, 1);
+            correctAnswers.put(4, 2);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 3);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 2);
+            correctAnswers.put(9, 2);
+            correctAnswers.put(10, 3);
+            correctAnswers.put(11, 1);
+            correctAnswers.put(12, 1);
+            correctAnswers.put(13, 4);
+            correctAnswers.put(14, 4);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 3);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 2);
+            correctAnswers.put(19, 3);
+            correctAnswers.put(20, 2);
+        } else if (setNumber == 18) {
+            correctAnswers.put(1, 3);
+            correctAnswers.put(2, 2);
+            correctAnswers.put(3, 1);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 4);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 2);
+            correctAnswers.put(9, 1);
+            correctAnswers.put(10, 1);
+            correctAnswers.put(11, 4);
+            correctAnswers.put(12, 2);
+            correctAnswers.put(13, 4);
+            correctAnswers.put(14, 4);
+            correctAnswers.put(15, 2);
+            correctAnswers.put(16, 1);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 2);
+            correctAnswers.put(19, 3);
+            correctAnswers.put(20, 2);
+        } else if (setNumber == 19) {
+            correctAnswers.put(1, 1);
+            correctAnswers.put(2, 2);
+            correctAnswers.put(3, 4);
+            correctAnswers.put(4, 3);
+            correctAnswers.put(5, 3);
+            correctAnswers.put(6, 4);
+            correctAnswers.put(7, 1);
+            correctAnswers.put(8, 2);
+            correctAnswers.put(9, 3);
+            correctAnswers.put(10, 2);
+            correctAnswers.put(11, 1);
+            correctAnswers.put(12, 2);
+            correctAnswers.put(13, 4);
+            correctAnswers.put(14, 4);
+            correctAnswers.put(15, 1);
+            correctAnswers.put(16, 1);
+            correctAnswers.put(17, 2);
+            correctAnswers.put(18, 2);
+            correctAnswers.put(19, 3);
+            correctAnswers.put(20, 1);
+        }
+    }
+
 
     private void setAnswersText(int setNumber) {
         String question1Answer1Text = "set" + String.valueOf(setNumber) + "_1_a1";
@@ -698,5 +1420,7 @@ public class QuizzActivity extends AppCompatActivity {
         question20Answer2 = findViewById(R.id.question20Answer2);
         question20Answer3 = findViewById(R.id.question20Answer3);
         question20Answer4 = findViewById(R.id.question20Answer4);
+
+        checkAnswers = findViewById(R.id.checkAnswers);
     }
 }
