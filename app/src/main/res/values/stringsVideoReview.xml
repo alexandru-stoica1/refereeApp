@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="challenges">Faulturi</string>
+    <string name="dogsospa">DOGSO-SPA</string>
+    <string name="handball">Hentul</string>
+    <string name="holding">Tinerea</string>
+    <string name="illegaluseofarms">Folosirea neregulamentara a bratelor</string>
+    <string name="penaltyareadecisions">Decizii in suprafata de pedeapsa</string>
+    <string name="simulation">Simularea</string>
+    <string name="offside">Offside</string>
+
+    <string name="ljsc">Lasa jocul sa continue</string>
+    <string name="lld">Lovitura libera directa\Lovitura de pedeapsa, fara sanctiune disciplinara</string>
+    <string name="lldyellow">Lovitura libera directa\Lovitura de pedeapsa, avertisment (cartonas galben)</string>
+    <string name="lldred">Lovitura libera directa\Lovitura de pedeapsa, eliminare (cartonas rosu)</string>
+    <string name="lli">Lovitura libera indirecta, fara sanctiune disciplinara</string>
+    <string name="lliyellow">Lovitura libera indirecta, avertisment (cartonas galben)</string>
+    <string name="llired">Lovitura libera indirecta, eliminare (cartonas rosu)</string>
+
+</resources>
