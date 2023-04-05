@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VideoActivity"
+    android:background="@color/grey">
+
+    <FrameLayout
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey">
+
+        <VideoView
+            android:id="@+id/oneVideoView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_below="@id/videoView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:backgroundTint="@color/grey">
+
+
+        <RadioGroup
+            android:id="@+id/radioGroupVideoActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="100dp"
+            android:layout_marginStart="10dp"
+            android:layout_margin="10dp">
+
+            <RadioButton
+                android:id="@+id/radioButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ljsc"
+                android:textColor="@color/white">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lld"
+                android:textColor="@color/white">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lldyellow"
+                android:textColor="@color/white">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioButton4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lldred"
+                android:textColor="@color/white">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioButton5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lli"
+                android:textColor="@color/white">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioButton6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lliyellow"
+                android:textColor="@color/white">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radioButton7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/llired"
+                android:textColor="@color/white">
+
+            </RadioButton>
+        </RadioGroup>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkAnswerVideoActivity"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/radioGroupVideoActivity"
+            android:backgroundTint="@color/yellow"
+            android:text="Check Answer"
+            android:textColor="@color/black">
+
+        </Button>
+
+        <Button
+            android:id="@+id/videoActivityBtnPrevious"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/checkAnswerVideoActivity"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:backgroundTint="@color/yellow"
+            android:text="Previous"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"/>
+
+        <Button
+            android:id="@+id/videoActivityBtnNext"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/checkAnswerVideoActivity"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@id/videoActivityBtnPrevious"
+            android:backgroundTint="@color/yellow"
+            android:text="Next"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,9 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".VideoReviewActivity">
+    tools:context=".VideoReviewActivity"
+    android:background="@color/grey">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <Button
+                android:id="@+id/VideoActivityChallenges"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:text="@string/challenges"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivityDogsoSpa"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivityChallenges"
+                android:text="@string/dogsospa"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivityHandball"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivityDogsoSpa"
+                android:text="@string/handball"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivityHolding"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivityHandball"
+                android:text="@string/holding"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivityIllegalUseOfArms"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivityHolding"
+                android:text="@string/illegaluseofarms"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivityPenaltyAreaDecisions"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivityIllegalUseOfArms"
+                android:text="@string/penaltyareadecisions"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivitySimulation"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivityPenaltyAreaDecisions"
+                android:text="@string/simulation"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+            <Button
+                android:id="@+id/VideoActivityOffside"
+                style="@style/buttons"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/VideoActivitySimulation"
+                android:layout_marginBottom="20dp"
+                android:text="@string/offside"
+                android:textColor="@color/black"
+                android:layout_centerInParent="false"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
