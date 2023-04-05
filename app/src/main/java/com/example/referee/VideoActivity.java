@@ -157,17 +157,17 @@ public class VideoActivity extends AppCompatActivity implements View.OnClickList
                 if (colorGreen == 1) {
                     answer1.setTextColor(Color.GREEN);
                 } else if (colorGreen == 2) {
-                    answer1.setTextColor(Color.GREEN);
+                    answer2.setTextColor(Color.GREEN);
                 } else if (colorGreen == 3) {
-                    answer1.setTextColor(Color.GREEN);
+                    answer3.setTextColor(Color.GREEN);
                 } else if (colorGreen == 4) {
-                    answer1.setTextColor(Color.GREEN);
+                    answer4.setTextColor(Color.GREEN);
                 } else if (colorGreen == 5) {
-                    answer1.setTextColor(Color.GREEN);
+                    answer5.setTextColor(Color.GREEN);
                 } else if (colorGreen == 6) {
-                    answer1.setTextColor(Color.GREEN);
+                    answer6.setTextColor(Color.GREEN);
                 } else if (colorGreen == 7) {
-                    answer1.setTextColor(Color.GREEN);
+                    answer7.setTextColor(Color.GREEN);
                 }
                 break;
 
