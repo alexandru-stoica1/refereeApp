@@ -2,6 +2,8 @@ package com.example.referee;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -11,6 +13,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.HashMap;
 
 public class VideoReviewActivity extends AppCompatActivity implements View.OnClickListener {
+    private final String actionBarColor = "#42515e";
+
     private Button challengesBtn;
     private Button dogsoSpaBtn;
     private Button holdingBtn;
@@ -27,6 +31,11 @@ public class VideoReviewActivity extends AppCompatActivity implements View.OnCli
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_video_review);
+
+        ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor(actionBarColor));
+        getSupportActionBar().setBackgroundDrawable(colorDrawable);
+
+        getSupportActionBar().setTitle(R.string.video_review);
 
         answers = new HashMap<String, Integer>();
         createAnswersData();
