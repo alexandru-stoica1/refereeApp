@@ -2,6 +2,7 @@ package com.example.referee;
 
 import android.annotation.SuppressLint;
 import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
@@ -16,6 +17,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.HashMap;
 
 public class VideoActivity extends AppCompatActivity implements View.OnClickListener {
+    private final String actionBarColor = "#42515e";
+
     private int buttonClicked;
     private int noVideos;
     private String videoCategory;
@@ -46,6 +49,9 @@ public class VideoActivity extends AppCompatActivity implements View.OnClickList
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_video);
+
+        ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor(actionBarColor));
+        getSupportActionBar().setBackgroundDrawable(colorDrawable);
 
         answer1 = findViewById(R.id.radioButton1);
         answer2 = findViewById(R.id.radioButton2);
@@ -140,11 +146,8 @@ public class VideoActivity extends AppCompatActivity implements View.OnClickList
             case R.id.checkAnswerVideoActivity:
                 String currvideo = videoCategory;
                 currvideo += Integer.toString(currentVideo);
-                System.out.println(currvideo);
-                System.out.println(answers);
 
                 int colorGreen = answers.get(currvideo);
-                System.out.println(colorGreen);
 
                 answer1.setTextColor(Color.RED);
                 answer2.setTextColor(Color.RED);
