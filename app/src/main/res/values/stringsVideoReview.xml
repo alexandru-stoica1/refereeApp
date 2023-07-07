@@ -10,9 +10,9 @@
     <string name="offside">Offside</string>
 
     <string name="ljsc">Lasa jocul sa continue</string>
-    <string name="lld">Lovitura libera directa\Lovitura de pedeapsa, fara sanctiune disciplinara</string>
-    <string name="lldyellow">Lovitura libera directa\Lovitura de pedeapsa, avertisment (cartonas galben)</string>
-    <string name="lldred">Lovitura libera directa\Lovitura de pedeapsa, eliminare (cartonas rosu)</string>
+    <string name="lld">Lovitura libera directa sau Lovitura de pedeapsa, fara sanctiune disciplinara</string>
+    <string name="lldyellow">Lovitura libera directa sau Lovitura de pedeapsa, avertisment (cartonas galben)</string>
+    <string name="lldred">Lovitura libera directa sau Lovitura de pedeapsa, eliminare (cartonas rosu)</string>
     <string name="lli">Lovitura libera indirecta, fara sanctiune disciplinara</string>
     <string name="lliyellow">Lovitura libera indirecta, avertisment (cartonas galben)</string>
     <string name="llired">Lovitura libera indirecta, eliminare (cartonas rosu)</string>

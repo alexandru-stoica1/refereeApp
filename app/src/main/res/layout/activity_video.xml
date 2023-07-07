@@ -18,6 +18,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </FrameLayout>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/videoView">
 
     <RelativeLayout
         android:layout_below="@id/videoView"
@@ -25,7 +29,6 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:backgroundTint="@color/grey">
-
 
         <RadioGroup
             android:id="@+id/radioGroupVideoActivity"
@@ -100,16 +103,26 @@
             </RadioButton>
         </RadioGroup>
 
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/radioGroupVideoActivity"
+            >
+
+
+
         <Button
             android:layout_marginTop="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/checkAnswerVideoActivity"
             android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
             android:layout_below="@id/radioGroupVideoActivity"
             android:backgroundTint="@color/yellow"
             android:text="Check Answer"
-            android:textColor="@color/black">
+            android:textColor="@color/black"
+            tools:ignore="NotSibling">
 
         </Button>
 
@@ -136,6 +149,9 @@
             android:backgroundTint="@color/yellow"
             android:text="Next"
             android:textColor="@color/black" />
+        </RelativeLayout>
+
     </RelativeLayout>
+    </ScrollView>
 
 </RelativeLayout>

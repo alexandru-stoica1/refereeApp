@@ -7,20 +7,33 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.SpannableStringBuilder;
+import android.text.TextWatcher;
+import android.text.style.ForegroundColorSpan;
+import android.text.style.UnderlineSpan;
 import android.view.MotionEvent;
+import android.widget.EditText;
 import android.widget.TextView;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 
 public class LawsOfTheGameChaptersActivity extends AppCompatActivity {
     private final String actionBarColor = "#42515e";
 
     private String textToBeDisplayed;
     private String titleToBeDisplayed;
+    private String stringToBeSearched;
 
     TextView title;
     TextView text;
+
+    private EditText searchedText;
 
     float x1, y1, x2, y2;
 
@@ -53,12 +66,60 @@ public class LawsOfTheGameChaptersActivity extends AppCompatActivity {
         title = findViewById(R.id.lawsOfTheGameChaptersActivityTitle);
         text = findViewById(R.id.lawsOfTheGameChaptersActivityText);
 
+        searchedText = findViewById(R.id.searchedText);
+
+        searchedText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {}
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                String stringKey = searchedText.getText().toString().toLowerCase(Locale.ROOT);
+                int textId = getResources().getIdentifier(textToBeDisplayed, "string", getPackageName());
+                String stringToSearch = getString(textId);
+
+                ArrayList<Integer> appearances = new ArrayList<>();
+
+                for (int i = 0; i < stringToSearch.length(); i++) {
+                    int keyIndex = 0;
+
+                    while (keyIndex != stringKey.length() && stringToSearch.charAt(i) == stringKey.charAt(keyIndex)) {
+                        keyIndex++;
+                        i++;
+                    }
+
+                    if (keyIndex == stringKey.length()) {
+                        appearances.add(i - keyIndex);
+                    }
+                }
+
+                System.out.println(appearances);
+
+                if (stringToSearch.contains(stringKey)) {
+                    int intStart = stringToSearch.indexOf(stringKey);
+                    int endIndex = intStart + stringKey.length();
+
+                    Spannable spannableString = new SpannableStringBuilder(stringToSearch);
+
+                    for (int i: appearances) {
+                        spannableString.setSpan(new ForegroundColorSpan(Color.YELLOW), i, i + stringKey.length(), 0);
+                    }
+
+                    text.setText(spannableString);
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {}
+        });
+
         setText(titleToBeDisplayed, textToBeDisplayed);
 
         //text.setMovementMethod(new ScrollingMovementMethod());
     }
 
     private void setText(String titleToBeDisplayed, String textToBeDisplayed) {
+        System.out.println(textToBeDisplayed);
         String lawNumber = "law";
         lawNumber += String.valueOf(groupPosition);
 
